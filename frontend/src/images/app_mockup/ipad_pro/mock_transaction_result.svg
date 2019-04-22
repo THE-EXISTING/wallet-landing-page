@@ -1,0 +1,236 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="532" height="420">
+  <defs>
+    <rect id="prefix__mock_transaction_result-b" width="337" height="450" x="98" y="-15" rx="23.902"/>
+    <filter id="prefix__mock_transaction_result-a" width="134.7%" height="126%" x="-17.4%" y="-13%" filterUnits="objectBoundingBox">
+      <feOffset in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="19.5"/>
+      <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0.196078431 0 0 0 0 0.654901961 0 0 0 0 0.901960784 0 0 0 0.12 0"/>
+    </filter>
+    <rect id="prefix__mock_transaction_result-c" width="314.2" height="426.58" rx="13.879"/>
+    <linearGradient id="prefix__mock_transaction_result-e" x1="0%" y1="22.832%" y2="77.168%">
+      <stop offset="0%" stop-color="#2196F3" stop-opacity=".98"/>
+      <stop offset="100%" stop-color="#64E3B2"/>
+    </linearGradient>
+    <path id="prefix__mock_transaction_result-f" d="M4.425 0h281.15a3.925 3.925 0 0 1 3.925 3.925v237.15a3.925 3.925 0 0 1-3.925 3.925H4.425A3.925 3.925 0 0 1 .5 241.075V3.925A3.925 3.925 0 0 1 4.425 0z"/>
+    <filter id="prefix__mock_transaction_result-g" width="101.6%" height="101.8%" x="-.8%" y="-.5%" filterUnits="objectBoundingBox">
+      <feMorphology in="SourceAlpha" radius=".25" result="shadowSpreadOuter1"/>
+      <feOffset dy="1" in="shadowSpreadOuter1" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="1"/>
+      <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.2 0"/>
+    </filter>
+    <path id="prefix__mock_transaction_result-i" d="M0 0h200.677v1H0z"/>
+    <path id="prefix__mock_transaction_result-k" d="M0 0h180.609v1H0z"/>
+    <path id="prefix__mock_transaction_result-m" d="M0 0h200.677v1H0z"/>
+    <path id="prefix__mock_transaction_result-o" d="M0 0h200.677v1H0z"/>
+    <path id="prefix__mock_transaction_result-q" d="M5.888 5.26a.952.952 0 0 0-.642.251L2.914 4.154c.017-.075.03-.15.03-.229a1.07 1.07 0 0 0-.03-.229L5.22 2.352a.98.98 0 0 0 1.649-.716.98.98 0 0 0-.981-.982.98.98 0 0 0-.952 1.21L2.63 3.21a.98.98 0 0 0-1.649.716.98.98 0 0 0 1.649.716l2.329 1.361a.956.956 0 1 0 1.884.213.956.956 0 0 0-.955-.955z"/>
+    <path id="prefix__mock_transaction_result-s" d="M0 0h426v27H0z"/>
+    <path id="prefix__mock_transaction_result-u" d="M9.813 5.397H3.842l2.742-2.743-.696-.692-3.926 3.926 3.926 3.925.691-.692-2.737-2.743h5.971z"/>
+    <linearGradient id="prefix__mock_transaction_result-w" x1="0%" y1="48.611%" y2="51.389%">
+      <stop offset="0%" stop-color="#59C5E3"/>
+      <stop offset="100%" stop-color="#459DE6"/>
+    </linearGradient>
+    <path id="prefix__mock_transaction_result-x" d="M0 0h200.677v1H0z"/>
+    <path id="prefix__mock_transaction_result-z" d="M9.455.585a.308.308 0 0 1 .097.218v2.65a.33.33 0 0 1-.096.226.33.33 0 0 1-.221.1h-.231c-.168 0-.295-.158-.295-.325v-1.51L4.396 6.252a.313.313 0 0 1-.435 0l-.163-.163a.304.304 0 0 1 0-.43l4.327-4.325H6.579a.316.316 0 0 1-.315-.306V.797c0-.168.147-.306.315-.306h2.65c.083 0 .167.034.226.094zM7.788 5.897a.3.3 0 0 1-.089.214l-4.332 4.33h1.546c.168 0 .339.142.339.31v.23c0 .168-.171.303-.339.303h-2.65a.29.29 0 0 1-.214-.093.293.293 0 0 1-.086-.216v-2.65c0-.168.126-.33.294-.33h.231c.168 0 .319.162.319.33v1.51L7.113 5.52a.303.303 0 0 1 .423 0l.163.163a.3.3 0 0 1 .09.214z"/>
+    <linearGradient id="prefix__mock_transaction_result-A" x1="0%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#2196F3" stop-opacity=".98"/>
+      <stop offset="100%" stop-color="#64E3B2"/>
+    </linearGradient>
+    <path id="prefix__mock_transaction_result-C" d="M165 3.5a2.5 2.5 0 1 1 0 5 2.5 2.5 0 0 1 0-5zm8.5 5l-3-5h6l-3 5zm-20-5h5v5h-5v-5z"/>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <g transform="rotate(-90 266.5 210)">
+      <use fill="#000" filter="url(#prefix__mock_transaction_result-a)" xlink:href="#prefix__mock_transaction_result-b"/>
+      <rect width="335.843" height="448.843" x="98.578" y="-14.422" fill="#FFF" stroke="#E8E8E8" stroke-linejoin="square" stroke-opacity=".8" stroke-width="1.157" rx="23.902"/>
+    </g>
+    <g transform="rotate(-90 210.5 156.5)">
+      <mask id="prefix__mock_transaction_result-d" fill="#fff">
+        <use xlink:href="#prefix__mock_transaction_result-c"/>
+      </mask>
+      <use fill="#F3F3F3" xlink:href="#prefix__mock_transaction_result-c"/>
+      <g mask="url(#prefix__mock_transaction_result-d)">
+        <path fill="#FFF" d="M314.434.434v426h-314v-426z"/>
+        <path fill="url(#prefix__mock_transaction_result-e)" d="M0 314.063h426.063V0H0z" transform="rotate(90 157.25 157.184)"/>
+        <g opacity=".05" transform="rotate(80 -52.314 361.729)">
+          <circle cx="47.038" cy="47.038" r="47.038" stroke="#FFF" stroke-width=".981"/>
+          <path fill="#FFF" d="M86.648 47.038c0 21.876-17.734 39.61-39.61 39.61-21.877 0-39.611-17.734-39.611-39.61 0-21.877 17.734-39.611 39.61-39.611 21.877 0 39.611 17.734 39.611 39.61zm-22.071 4.908l-17.05-35.01V60.89l17.05-8.943zm-35.078 0l16.99 8.943v-43.94l-16.99 34.997zm35.078 1.28l-17.05 8.507v13.679l17.05-22.186zm-35.078 0l16.99 22.186v-13.68l-16.99-8.506z"/>
+        </g>
+        <g transform="rotate(90 83.75 152.684)">
+          <mask id="prefix__mock_transaction_result-h" fill="#fff">
+            <use xlink:href="#prefix__mock_transaction_result-f"/>
+          </mask>
+          <use fill="#000" filter="url(#prefix__mock_transaction_result-g)" xlink:href="#prefix__mock_transaction_result-f"/>
+          <use fill="#FAFAFA" stroke="#979797" stroke-width=".5" xlink:href="#prefix__mock_transaction_result-f"/>
+          <g mask="url(#prefix__mock_transaction_result-h)">
+            <path fill="#FFF" d="M.5 0h289.369v245.313H.5z"/>
+          </g>
+        </g>
+        <path fill="#FCFCFC" d="M188.434 69.934v288.367h-54.069V69.934z"/>
+        <g transform="rotate(90 37.5 150.934)">
+          <mask id="prefix__mock_transaction_result-j" fill="#fff">
+            <use xlink:href="#prefix__mock_transaction_result-i"/>
+          </mask>
+          <g fill="#000" fill-opacity=".87" mask="url(#prefix__mock_transaction_result-j)" opacity=".12">
+            <path d="M0 0h198.213v1H0z"/>
+          </g>
+        </g>
+        <g transform="rotate(90 18 141.434)">
+          <mask id="prefix__mock_transaction_result-l" fill="#fff">
+            <use xlink:href="#prefix__mock_transaction_result-k"/>
+          </mask>
+          <g fill="#000" fill-opacity=".87" mask="url(#prefix__mock_transaction_result-l)" opacity=".12">
+            <path d="M0 0h178.391v1H0z"/>
+          </g>
+        </g>
+        <g transform="rotate(90 -12.5 100.934)">
+          <mask id="prefix__mock_transaction_result-n" fill="#fff">
+            <use xlink:href="#prefix__mock_transaction_result-m"/>
+          </mask>
+          <g fill="#000" fill-opacity=".87" mask="url(#prefix__mock_transaction_result-n)" opacity=".12">
+            <path d="M0 0h198.213v1H0z"/>
+          </g>
+        </g>
+        <g transform="rotate(90 10.5 123.934)">
+          <mask id="prefix__mock_transaction_result-p" fill="#fff">
+            <use xlink:href="#prefix__mock_transaction_result-o"/>
+          </mask>
+          <g fill="#000" fill-opacity=".87" mask="url(#prefix__mock_transaction_result-p)" opacity=".12">
+            <path d="M0 0h198.213v1H0z"/>
+          </g>
+        </g>
+        <path fill="#FCFCFC" d="M56.434 69.934v288.367h-79.1V69.934z"/>
+        <text font-family="Roboto-Medium, Roboto" font-size="5.888" font-weight="400" letter-spacing=".105" transform="rotate(90 157 157.434)">
+          <tspan x="187" y="210" fill="#000">ETH</tspan>
+        </text>
+        <text font-family="Roboto-Medium, Roboto" font-size="5.888" font-weight="400" letter-spacing=".105" transform="rotate(90 157 157.434)">
+          <tspan x="152" y="247" fill="#000">ETH</tspan>
+        </text>
+        <text font-family="Roboto-Regular, Roboto" font-size="16.681" letter-spacing=".298" transform="rotate(90 157 157.434)">
+          <tspan x="113" y="211" fill="#000">12.03234</tspan>
+        </text>
+        <text font-family="Roboto-Regular, Roboto" font-size="9.813" letter-spacing=".175" transform="rotate(90 157 157.434)">
+          <tspan x="113" y="249" fill="#000">0.03234</tspan>
+        </text>
+        <text font-family="Roboto-Regular, Roboto" font-size="9.813" letter-spacing=".175" transform="rotate(90 157 157.434)">
+          <tspan x="113" y="281" fill="#000">120</tspan>
+        </text>
+        <g transform="rotate(90 -57 289.434)">
+          <mask id="prefix__mock_transaction_result-r" fill="#fff">
+            <use xlink:href="#prefix__mock_transaction_result-q"/>
+          </mask>
+          <g fill="#000" fill-opacity=".38" mask="url(#prefix__mock_transaction_result-r)">
+            <path d="M0 0h7.928v7.928H0z"/>
+          </g>
+        </g>
+        <g fill="#000" fill-opacity=".87" font-size="5.888" letter-spacing=".169">
+          <text font-family="Roboto-Medium, Roboto" font-weight="400" transform="rotate(90 16 129.434)">
+            <tspan x="6.869" y="5">34K5Q</tspan>
+          </text>
+          <text font-family="Roboto-Regular, Roboto" opacity=".6" transform="rotate(90 16 129.434)">
+            <tspan x="0" y="5.075">0x</tspan>
+          </text>
+          <text font-family="Roboto-Regular, Roboto" opacity=".6" transform="rotate(90 16 129.434)">
+            <tspan x="25.854" y="5.075">qebR2GH6…</tspan>
+          </text>
+        </g>
+        <g transform="rotate(90 150 150.434)">
+          <mask id="prefix__mock_transaction_result-t" fill="#fff">
+            <use xlink:href="#prefix__mock_transaction_result-s"/>
+          </mask>
+          <g mask="url(#prefix__mock_transaction_result-t)">
+            <g transform="translate(10 7.714)">
+              <mask id="prefix__mock_transaction_result-v" fill="#fff">
+                <use xlink:href="#prefix__mock_transaction_result-u"/>
+              </mask>
+              <g mask="url(#prefix__mock_transaction_result-v)">
+                <path fill="#FFF" d="M0 0h11.893v11.893H0z"/>
+              </g>
+            </g>
+          </g>
+        </g>
+        <text fill="#000" fill-opacity=".87" font-family="HelveticaNeue, Helvetica Neue" font-size="5.888" letter-spacing=".178" opacity=".34" transform="rotate(90 51 163.434)">
+          <tspan x="0" y="5.509">Transaction Hash</tspan>
+        </text>
+        <text fill-opacity=".87" font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="10.027" font-weight="400" letter-spacing=".123" transform="rotate(90 157 157.434)">
+          <tspan x="113" y="118" fill="#000">0x64230ff72531cd6531...</tspan>
+        </text>
+        <text fill-opacity=".87" font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="7.85" font-weight="400" letter-spacing=".096" transform="rotate(90 157 157.434)">
+          <tspan x="113" y="149" fill="#000">22 AUG 2018</tspan>
+        </text>
+        <text fill-opacity=".87" font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="7.85" font-weight="400" letter-spacing=".096" transform="rotate(90 157 157.434)">
+          <tspan x="253" y="149" fill="#000">10:38</tspan>
+        </text>
+        <text fill-opacity=".87" font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="4.416" font-weight="400" letter-spacing=".054" opacity=".34" transform="rotate(90 157 157.434)">
+          <tspan x="275" y="149" fill="#000">PM</tspan>
+        </text>
+        <text fill="#000" fill-opacity=".87" font-family="HelveticaNeue, Helvetica Neue" font-size="5.888" letter-spacing=".178" opacity=".34" transform="rotate(90 21 134.434)">
+          <tspan x="0" y="5.509">From: You</tspan>
+        </text>
+        <text font-family="HelveticaNeue, Helvetica Neue" font-size="5.888" letter-spacing=".178" transform="rotate(90 157 157.434)">
+          <tspan x="400.764" y="30" fill="#FFF">More</tspan>
+        </text>
+        <text fill="#000" fill-opacity=".87" font-family="HelveticaNeue, Helvetica Neue" font-size="5.888" letter-spacing=".178" opacity=".34" transform="rotate(90 -31.5 186.934)">
+          <tspan x="0" y="5.509">To</tspan>
+        </text>
+        <text fill="#000" fill-opacity=".87" font-family="HelveticaNeue, Helvetica Neue" font-size="5.888" letter-spacing=".178" opacity=".34" transform="rotate(90 35 148.434)">
+          <tspan x="0" y="5.509">Date / Time</tspan>
+        </text>
+        <text fill="#000" fill-opacity=".87" font-family="HelveticaNeue, Helvetica Neue" font-size="5.888" letter-spacing=".178" opacity=".34" transform="rotate(90 7.5 120.934)">
+          <tspan x="0" y="5.509">Amount include fee</tspan>
+        </text>
+        <text fill="#000" fill-opacity=".87" font-family="HelveticaNeue, Helvetica Neue" font-size="5.888" letter-spacing=".178" opacity=".34" transform="rotate(90 -15.5 97.934)">
+          <tspan x="0" y="5.509">Fee</tspan>
+        </text>
+        <text fill="#000" fill-opacity=".87" font-family="HelveticaNeue, Helvetica Neue" font-size="5.888" letter-spacing=".178" opacity=".34" transform="rotate(90 -31.5 81.934)">
+          <tspan x="0" y="5.509">Nonce</tspan>
+        </text>
+        <text font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="13.738" font-weight="bold" letter-spacing=".168" transform="rotate(90 157 157.434)">
+          <tspan x="73" y="52" fill="#FFF">Success</tspan>
+        </text>
+        <text fill-opacity=".87" font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="7.85" font-weight="400" letter-spacing=".245" transform="rotate(90 157 157.434)">
+          <tspan x="73" y="70" fill="#FFF">Your Transaction</tspan>
+        </text>
+        <rect width="108" height="18" fill="url(#prefix__mock_transaction_result-w)" fill-rule="nonzero" rx="8.831" transform="rotate(90 -66.5 92.934)"/>
+        <text fill="#FFF" font-family="Roboto-Medium, Roboto" font-size="6.869" font-weight="400" letter-spacing=".613" transform="rotate(90 -91 112.434)">
+          <tspan x=".209" y="6">SAVE</tspan>
+        </text>
+        <g transform="rotate(90 -28.5 84.934)">
+          <mask id="prefix__mock_transaction_result-y" fill="#fff">
+            <use xlink:href="#prefix__mock_transaction_result-x"/>
+          </mask>
+          <g fill="#000" fill-opacity=".87" mask="url(#prefix__mock_transaction_result-y)" opacity=".12">
+            <path d="M0 0h198.213v1H0z"/>
+          </g>
+        </g>
+        <g transform="rotate(90 79.5 152.934)">
+          <mask id="prefix__mock_transaction_result-B" fill="#fff">
+            <use xlink:href="#prefix__mock_transaction_result-z"/>
+          </mask>
+          <g fill="url(#prefix__mock_transaction_result-A)" mask="url(#prefix__mock_transaction_result-B)">
+            <path d="M11.893 11.775V-.118H0v11.893z"/>
+          </g>
+        </g>
+        <g fill="#000" fill-opacity=".87" font-size="5.888" letter-spacing=".169">
+          <text font-family="Roboto-Medium, Roboto" font-weight="400" transform="rotate(90 -36.5 181.934)">
+            <tspan x="6.869" y="5">34K5Q</tspan>
+          </text>
+          <text font-family="Roboto-Regular, Roboto" opacity=".6" transform="rotate(90 -36.5 181.934)">
+            <tspan x="0" y="5.075">0x</tspan>
+          </text>
+          <text font-family="Roboto-Regular, Roboto" opacity=".6" transform="rotate(90 -36.5 181.934)">
+            <tspan x="25.854" y="5.075">qebR2GH6…</tspan>
+          </text>
+        </g>
+        <g transform="rotate(90 36.5 275.934)">
+          <mask id="prefix__mock_transaction_result-D" fill="#fff">
+            <use xlink:href="#prefix__mock_transaction_result-C"/>
+          </mask>
+          <g fill="#FFF" mask="url(#prefix__mock_transaction_result-D)">
+            <path d="M130 0h50v12h-50z"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

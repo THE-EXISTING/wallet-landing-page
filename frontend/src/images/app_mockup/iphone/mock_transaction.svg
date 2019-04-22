@@ -1,0 +1,385 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="290" height="520">
+  <defs>
+    <path id="prefix__mock_transaction-b" d="M74.619 35h141.074C238.934 35 257 44.282 257 75.637v363.546c0 16.741-.805 45.817-39.238 45.817H68.98C52.22 485 34 474.889 34 446.205V75.637C34 42.172 54.896 35 74.619 35z"/>
+    <filter id="prefix__mock_transaction-a" width="154.3%" height="126.9%" x="-27.1%" y="-10.6%" filterUnits="objectBoundingBox">
+      <feOffset dy="13" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="18"/>
+      <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0.196078431 0 0 0 0 0.654901961 0 0 0 0 0.901960784 0 0 0 0.12 0"/>
+    </filter>
+    <path id="prefix__mock_transaction-c" d="M1 .4C1 .62.776.8.5.8S0 .62 0 .4C0 .18.224 0 .5 0s.5.18.5.4zM1 2c0 .22-.224.4-.5.4S0 2.22 0 2c0-.22.224-.4.5-.4s.5.18.5.4zm0 1.6c0 .221-.224.4-.5.4S0 3.821 0 3.6c0-.22.224-.4.5-.4s.5.18.5.4z"/>
+    <path id="prefix__mock_transaction-e" d="M141.426 16.105c8.217.116 11.825-7.237 11.921-12.37 0-2.724.778-3.618 3.82-3.618h17.592c10.067 0 21.64 4.668 21.64 22.64V406c0 14.47-7.638 22.64-24.65 22.64H22.797C5.44 428.64 0 418.02 0 406.35V21.473C0 6.769 10.416 0 20.138 0h19.559c2.777 0 3.356 1.634 3.356 3.501s.998 12.409 12.5 12.487c9.72 0 74.879.117 85.873.117z"/>
+    <filter id="prefix__mock_transaction-f" width="102.3%" height="101%" x="-1.1%" y="-.5%" filterUnits="objectBoundingBox">
+      <feMorphology in="SourceAlpha" operator="dilate" radius=".724" result="shadowSpreadOuter1"/>
+      <feOffset in="shadowSpreadOuter1" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
+      <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.04 0"/>
+    </filter>
+    <linearGradient id="prefix__mock_transaction-i" x1="0%" y1="39.802%" y2="63.935%">
+      <stop offset="0%" stop-color="#EDBC4A"/>
+      <stop offset="100%" stop-color="#FAA04B"/>
+    </linearGradient>
+    <path id="prefix__mock_transaction-h" d="M0 0h197v104H0z"/>
+    <path id="prefix__mock_transaction-k" d="M7.693 4.936l.504.503-4.958 4.958h-.504v-.503l4.958-4.958zm1.97-3.294a.548.548 0 0 0-.383.158l-1 1.002 2.052 2.052 1.001-1.002a.545.545 0 0 0 0-.771l-1.28-1.28a.537.537 0 0 0-.389-.16zm-1.97 1.745L1.641 9.44v2.052h2.052l6.052-6.053-2.052-2.052z"/>
+    <path id="prefix__mock_transaction-m" d="M12.586 0a2.736 2.736 0 1 1 0 5.472 2.736 2.736 0 0 1 0-5.472zm9.303 5.472L18.606 0h6.566L21.89 5.472zM0 0h5.472v5.472H0V0z"/>
+    <path id="prefix__mock_transaction-o" d="M6.567.4A4.306 4.306 0 0 1 8.61 4.097c0 2.398-1.897 4.347-4.232 4.347S.146 6.495.146 4.097c0-1.599.827-2.998 2.092-3.747l.486.5a3.32 3.32 0 0 0-.876.649c-.68.7-1.07 1.599-1.07 2.548 0 .95.39 1.899 1.07 2.598.681.7 1.606 1.1 2.53 1.1.924 0 1.848-.4 2.53-1.1a3.767 3.767 0 0 0 1.07-2.598c0-.95-.39-1.899-1.07-2.598a2.975 2.975 0 0 0-.78-.6L6.568.4zm-.779 2.248v2.898h-2.82V2.648h2.82zm-.632.65H3.551v1.648h1.605V3.298z"/>
+    <path id="prefix__mock_transaction-q" d="M5.253.351A4.374 4.374 0 0 1 8.61 4.615c0 2.408-1.897 4.364-4.232 4.364S.146 7.023.146 4.615C.146 2.508 1.556.803 3.502.35v.702a3.29 3.29 0 0 0-1.654.953c-.68.703-1.07 1.606-1.07 2.559 0 .953.39 1.906 1.07 2.608.681.702 1.606 1.104 2.53 1.104.924 0 1.848-.402 2.53-1.104a3.79 3.79 0 0 0 1.07-2.608 3.79 3.79 0 0 0-1.07-2.609c-.487-.451-1.022-.802-1.655-.953V.351zm.535 2.81V6.07h-2.82V3.16h2.82zm-.632.651H3.551v1.656h1.605V3.812z"/>
+    <path id="prefix__mock_transaction-s" d="M3.557 6.898v-.662h.662v.662h-.662zm0-1.325V3.557h2.016v2.016H3.557zm1.354-.662h-.03V4.22H4.22v.692h.692zm2.649.662V3.557h2.016v2.016H7.56zm.692-.662h.662V4.22h-.662v.692zM3.557 9.576V7.56h2.016v2.016H3.557zm1.354-.662h-.03v-.662H4.22v.662h.692zm1.325-3.34V4.218h.662v1.354h-.662zm.662.662V7.56h-.663v-.662h-.661v-.662h1.324zM8.252 7.56v1.354H6.898v.662h-.663V8.252H7.56V7.56h.692zm-.692-.662v-.662h.692v.662H7.56zm.692.662v-.662h.662v.662h-.662zm.662-.662v-.662h.662v.662h-.662zm0 2.016V7.56h.662v1.354h-.662zm-.662.662v-.662h.662v.662h-.662zM1.094 2.31v2.433H2.31V2.31h2.433V1.094H2.31A1.22 1.22 0 0 0 1.094 2.31zM2.31 8.39H1.094v2.433a1.22 1.22 0 0 0 1.216 1.216h2.433v-1.216H2.31V8.39zm8.513 2.433H8.39v1.216h2.432a1.22 1.22 0 0 0 1.216-1.216V8.39h-1.216v2.432zm0-9.729H8.39V2.31h2.432v2.433h1.216V2.31a1.22 1.22 0 0 0-1.216-1.216z"/>
+    <path id="prefix__mock_transaction-u" d="M4.925 7.524c-1.28 0-3.83.64-3.83 1.916v.957h7.66V9.44c0-1.275-2.55-1.916-3.83-1.916zm-2.55 1.779c.46-.318 1.57-.684 2.55-.684.98 0 2.09.366 2.55.684h-5.1zm2.55-2.736c1.056 0 1.915-.86 1.915-1.916s-.859-1.915-1.915-1.915-1.915.86-1.915 1.915c0 1.057.859 1.916 1.915 1.916zm0-2.736a.82.82 0 1 1 0 1.641.82.82 0 1 1 0-1.641zm3.852 3.726c.635.46 1.073 1.073 1.073 1.883v.957h2.189V9.44c0-1.106-1.915-1.735-3.262-1.883zm-.569-.99c1.056 0 1.916-.86 1.916-1.916s-.86-1.915-1.916-1.915c-.295 0-.569.071-.82.192a2.984 2.984 0 0 1 0 3.447c.251.12.525.192.82.192z"/>
+    <path id="prefix__mock_transaction-w" d="M0 5.472h1.041c0 2.473 2.098 4.477 4.685 4.477 2.588 0 4.685-2.004 4.685-4.477C10.411 3 8.314.995 5.726.995V0c3.163 0 5.726 2.45 5.726 5.472 0 3.022-2.563 5.472-5.726 5.472C2.564 10.944 0 8.494 0 5.472z"/>
+    <path id="prefix__mock_transaction-y" d="M0 0h188.803v1H0z"/>
+    <path id="prefix__mock_transaction-A" d="M4.445.297a3.7 3.7 0 0 1 2.84 3.608c0 2.037-1.605 3.693-3.58 3.693-1.976 0-3.582-1.656-3.582-3.693 0-1.783 1.194-3.226 2.84-3.608v.594a2.784 2.784 0 0 0-1.399.807C.988 2.292.659 3.056.659 3.862c0 .807.329 1.613.905 2.208.576.594 1.358.933 2.14.933s1.564-.34 2.14-.933a3.206 3.206 0 0 0 .906-2.208c0-.806-.33-1.612-.905-2.207-.412-.382-.865-.679-1.4-.806V.297zm.453 2.377v2.462H2.51V2.674h2.387zm-.535.552H3.005v1.4h1.358v-1.4z"/>
+    <path id="prefix__mock_transaction-C" d="M0 5.472h1.041c0 2.473 2.098 4.477 4.685 4.477 2.588 0 4.685-2.004 4.685-4.477C10.411 3 8.314.995 5.726.995V0c3.163 0 5.726 2.45 5.726 5.472 0 3.022-2.563 5.472-5.726 5.472C2.564 10.944 0 8.494 0 5.472z"/>
+    <path id="prefix__mock_transaction-E" d="M0 0h188.803v1H0z"/>
+    <path id="prefix__mock_transaction-G" d="M4.445.297a3.7 3.7 0 0 1 2.84 3.608c0 2.037-1.605 3.693-3.58 3.693-1.976 0-3.582-1.656-3.582-3.693 0-1.783 1.194-3.226 2.84-3.608v.594a2.784 2.784 0 0 0-1.399.807C.988 2.292.659 3.056.659 3.862c0 .807.329 1.613.905 2.208.576.594 1.358.933 2.14.933s1.564-.34 2.14-.933a3.206 3.206 0 0 0 .906-2.208c0-.806-.33-1.612-.905-2.207-.412-.382-.865-.679-1.4-.806V.297zm.453 2.377v2.462H2.51V2.674h2.387zm-.535.552H3.005v1.4h1.358v-1.4z"/>
+    <path id="prefix__mock_transaction-I" d="M10.944 6.019H4.285L7.344 2.96l-.777-.771-4.378 4.378 4.378 4.377.771-.771-3.053-3.059h6.659z"/>
+    <path id="prefix__mock_transaction-K" d="M2.189 1.094a1.095 1.095 0 1 1-2.19 0 1.095 1.095 0 0 1 2.19 0zm0 4.378a1.095 1.095 0 1 1-2.19 0 1.095 1.095 0 0 1 2.19 0zm0 4.378a1.094 1.094 0 1 1-2.19 0 1.094 1.094 0 0 1 2.19 0z"/>
+    <path id="prefix__mock_transaction-M" d="M3.797 2.732L2.686 3.843V2.732h1.11zM1.25 5.464l-.417.417a3.93 3.93 0 0 1-.509-1.204h.602c.093.277.185.555.324.787zm.417-3.658c-.37.417-.648.833-.834 1.389H.278C.695 1.62 2.13.37 3.889.37c.695 0 1.343.186 1.899.51l-.417.416A3.036 3.036 0 0 0 3.843.88c-.787 0-1.574.37-2.176.926zm5-.232c.603.649.927 1.482.927 2.362 0 1.945-1.62 3.565-3.658 3.565-.926 0-1.713-.278-2.362-.833l-.88.88a.351.351 0 0 1-.185.092.351.351 0 0 1-.185-.093.282.282 0 0 1 0-.37l.834-.88.416-.37 1.112-1.111.555-.556.973-.972.555-.556L5.881 1.62l.416-.417.695-.695a.282.282 0 0 1 .37 0 .282.282 0 0 1 0 .37l-.694.695zM4.63 3.612L3.612 4.63H4.63V3.612zm1.436 2.454a2.887 2.887 0 0 0 .926-2.084c0-.694-.278-1.389-.741-1.945L5.14 3.15v1.99H3.149L1.99 6.298a2.913 2.913 0 0 0 1.898.695c.788 0 1.575-.37 2.177-.926z"/>
+    <path id="prefix__mock_transaction-O" d="M4.445.297a3.7 3.7 0 0 1 2.84 3.608c0 2.037-1.605 3.693-3.58 3.693-1.976 0-3.582-1.656-3.582-3.693 0-1.783 1.194-3.226 2.84-3.608v.594a2.784 2.784 0 0 0-1.399.807C.988 2.292.659 3.056.659 3.862c0 .807.329 1.613.905 2.208.576.594 1.358.933 2.14.933s1.564-.34 2.14-.933a3.206 3.206 0 0 0 .906-2.208c0-.806-.33-1.612-.905-2.207-.412-.382-.865-.679-1.4-.806V.297zm.453 2.377v2.462H2.51V2.674h2.387zm-.535.552H3.005v1.4h1.358v-1.4z"/>
+    <path id="prefix__mock_transaction-Q" d="M0 0h188.803v1H0z"/>
+    <path id="prefix__mock_transaction-S" d="M5.556.338a3.644 3.644 0 0 1 1.73 3.129c0 2.029-1.606 3.678-3.582 3.678-1.975 0-3.58-1.649-3.58-3.678 0-1.353.7-2.537 1.77-3.171l.41.423a2.793 2.793 0 0 0-.74.55C.988 1.86.659 2.62.659 3.423c0 .804.329 1.607.905 2.199.576.592 1.358.93 2.14.93s1.564-.338 2.14-.93a3.187 3.187 0 0 0 .906-2.199c0-.803-.33-1.606-.905-2.198a2.518 2.518 0 0 0-.659-.507l.37-.38zm-.658 1.903v2.452H2.51V2.24h2.387zm-.535.55H3.005v1.394h1.358V2.79z"/>
+    <path id="prefix__mock_transaction-U" d="M0 0h188.803v1H0z"/>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <use fill="#000" filter="url(#prefix__mock_transaction-a)" xlink:href="#prefix__mock_transaction-b"/>
+    <path fill="#FFF" stroke="#E8E8E8" stroke-linejoin="square" stroke-opacity=".8" stroke-width="1.086" d="M74.619 35.543c-11.28 0-20.529 2.336-27.372 7.655-8.248 6.41-12.704 16.981-12.704 32.439v370.568c0 25.054 14.356 38.252 34.437 38.252h148.782c17.262 0 27.92-5.81 33.552-16.344 4.07-7.61 5.143-15.675 5.143-28.93V75.637c0-28.079-14.29-40.094-40.764-40.094H74.62z"/>
+    <g transform="translate(56 209)">
+      <mask id="prefix__mock_transaction-d" fill="#fff">
+        <use xlink:href="#prefix__mock_transaction-c"/>
+      </mask>
+      <g fill="#000" fill-opacity=".54" mask="url(#prefix__mock_transaction-d)">
+        <path d="M-1.5 5.5V-.436h4.947V5.5z"/>
+      </g>
+    </g>
+    <g transform="translate(47 46)">
+      <mask id="prefix__mock_transaction-g" fill="#fff">
+        <use xlink:href="#prefix__mock_transaction-e"/>
+      </mask>
+      <g opacity=".6">
+        <use fill="#000" filter="url(#prefix__mock_transaction-f)" xlink:href="#prefix__mock_transaction-e"/>
+        <path fill="#F3F3F3" stroke="#E8E8E8" stroke-width=".724" d="M141.426 15.743h.006c6.914.098 11.434-5.644 11.553-12.009 0-2.99 1.008-3.98 4.181-3.98h17.593c13.201 0 22.003 7.237 22.003 23.003V406c0 15.115-8.266 23.001-25.013 23.001H22.797c-15.735 0-23.159-8.653-23.159-22.651V21.473c0-13.481 9.038-21.835 20.5-21.835h19.559c2.665 0 3.718 1.374 3.718 3.863 0 1.853.577 4.496 1.887 6.731 1.975 3.37 5.286 5.36 10.25 5.394a45613.636 45613.636 0 0 1 43.118.06c26.87.04 38.19.057 42.756.057z"/>
+      </g>
+      <g mask="url(#prefix__mock_transaction-g)">
+        <path fill="#FFF" d="M0-1h197v430H0z"/>
+        <g transform="translate(0 -1)">
+          <mask id="prefix__mock_transaction-j" fill="#fff">
+            <use xlink:href="#prefix__mock_transaction-h"/>
+          </mask>
+          <use fill="url(#prefix__mock_transaction-i)" xlink:href="#prefix__mock_transaction-h"/>
+          <g mask="url(#prefix__mock_transaction-j)">
+            <g transform="rotate(-45 42.988 104.351)">
+              <ellipse cx="70.132" cy="69.905" stroke="#FFF" stroke-width="1.094" opacity=".05" rx="70.132" ry="69.905"/>
+              <path fill="#FFF" d="M129.19 69.905c0 32.513-26.44 58.868-59.058 58.868-32.617 0-59.059-26.355-59.059-58.868 0-32.511 26.442-58.867 59.059-58.867s59.059 26.356 59.059 58.867zm-31.664-12.22a14.848 14.848 0 0 0-8.884-7.193l-2.201-.653 3.08-10.31-7.903-2.346-3.08 10.31-6.749-2.004 3.081-10.31-1.893-.562-7.67-2.277-2.97 9.938-9.348-2.775-2.638 8.83 9.348 2.776-9.604 32.14-9.348-2.774-2.638 8.83 9.347 2.775-2.505 8.388 1.892.562 7.671 2.277 2.617-8.76 6.764 2.008-2.617 8.76 7.872 2.338 2.617-8.761 2.216.657a14.912 14.912 0 0 0 11.385-1.176 14.82 14.82 0 0 0 7.216-8.855c1.2-4.014.607-8.138-1.3-11.532 3.462-1.801 6.221-4.937 7.421-8.953a14.766 14.766 0 0 0-1.18-11.348zM84.47 87.11a6.425 6.425 0 0 1-3.13 3.842 6.461 6.461 0 0 1-4.941.511l-16.632-4.937 3.706-12.4 16.63 4.939c3.43 1.018 5.39 4.627 4.367 8.045zm5.61-25.41a6.412 6.412 0 0 1 .512 4.925c-1.022 3.417-4.644 5.37-8.072 4.353l-16.63-4.937 3.704-12.4 16.631 4.938a6.442 6.442 0 0 1 3.856 3.12z" opacity=".1"/>
+            </g>
+          </g>
+        </g>
+        <g transform="translate(155 21)">
+          <mask id="prefix__mock_transaction-l" fill="#fff">
+            <use xlink:href="#prefix__mock_transaction-k"/>
+          </mask>
+          <g fill="#FFF" mask="url(#prefix__mock_transaction-l)">
+            <path d="M0 0h13.064v13.064H0z"/>
+          </g>
+        </g>
+        <text fill="#FFF" font-family="Roboto-Regular, Roboto" font-size="7.661" letter-spacing=".137" opacity=".6" transform="translate(0 -1)">
+          <tspan x="139" y="89">$ 104,515.97</tspan>
+        </text>
+        <text fill="#FFF" font-family="HelveticaNeue, Helvetica Neue" font-size="7.661" letter-spacing=".137" opacity=".8" transform="translate(0 -1)">
+          <tspan x="156" y="55">Balance</tspan>
+        </text>
+        <text fill="#FFF" font-family="Roboto-Bold, Roboto" font-size="6.567" font-weight="bold" letter-spacing=".117" transform="translate(0 -1)">
+          <tspan x="94" y="76">BTC</tspan>
+        </text>
+        <text fill="#FFF" font-family="Roboto-Medium, Roboto" font-size="17.511" font-weight="400" letter-spacing=".313" transform="translate(0 -1)">
+          <tspan x="108" y="77">12.03234</tspan>
+        </text>
+        <g transform="translate(158.997 5.83)">
+          <mask id="prefix__mock_transaction-n" fill="#fff">
+            <use xlink:href="#prefix__mock_transaction-m"/>
+          </mask>
+          <g fill="#000" fill-opacity=".54" mask="url(#prefix__mock_transaction-n)">
+            <path d="M-25.72-3.83h55.27V9.232h-55.27z"/>
+          </g>
+        </g>
+        <g transform="translate(67 118)">
+          <text fill="#2B3540" fill-opacity=".73" font-family="HelveticaNeue, Helvetica Neue" font-size="5.472" letter-spacing=".098">
+            <tspan x="1.431" y="29.078">Receive</tspan>
+          </text>
+          <g transform="translate(7.117 7.92)">
+            <mask id="prefix__mock_transaction-p" fill="#fff">
+              <use xlink:href="#prefix__mock_transaction-o"/>
+            </mask>
+            <g fill="#000" fill-opacity=".54" mask="url(#prefix__mock_transaction-p)">
+              <path d="M-1.618 8.835V-3.13h11.964V8.835z"/>
+            </g>
+          </g>
+          <path fill="#47CC5D" fill-rule="nonzero" d="M13.003 7.52c-.097-.1-.292-.1-.438 0l-.827.85v-2.7c0-.15-.145-.3-.291-.3s-.292.15-.292.3v2.7l-.779-.799c-.097-.15-.291-.15-.389 0-.097.1-.097.3 0 .45l1.314 1.349c.097.1.292.1.437 0l1.314-1.35a.392.392 0 0 0-.049-.499z"/>
+          <ellipse cx="11.5" cy="11.484" stroke="#2B3540" stroke-opacity=".33" stroke-width=".547" rx="11.5" ry="11.484"/>
+        </g>
+        <g transform="translate(107 118)">
+          <text fill="#2B3540" fill-opacity=".73" font-family="HelveticaNeue, Helvetica Neue" font-size="5.472" letter-spacing=".098">
+            <tspan x="4.918" y="29.078">Send</tspan>
+          </text>
+          <g transform="translate(7.117 7.43)">
+            <mask id="prefix__mock_transaction-r" fill="#fff">
+              <use xlink:href="#prefix__mock_transaction-q"/>
+            </mask>
+            <g fill="#000" fill-opacity=".54" mask="url(#prefix__mock_transaction-r)">
+              <path d="M-1.642 9.348V-2.616h11.964V9.348z"/>
+            </g>
+          </g>
+          <path fill="#F71723" fill-rule="nonzero" d="M10.085 7.129c.097.1.291.1.437 0l.681-.702v2.708c0 .151.146.301.292.301s.292-.15.292-.3v-2.71l.681.703c.097.1.292.1.438 0 .097-.1.097-.301 0-.451L11.69 5.423c-.097-.1-.292-.1-.438 0l-1.167 1.255a.324.324 0 0 0 0 .451z"/>
+          <ellipse cx="11.5" cy="11.484" stroke="#2B3540" stroke-opacity=".33" stroke-width=".547" rx="11.5" ry="11.484"/>
+        </g>
+        <g transform="translate(26 118)">
+          <text fill="#2B3540" fill-opacity=".73" font-family="HelveticaNeue, Helvetica Neue" font-size="5.472" letter-spacing=".098">
+            <tspan x="5.072" y="29.078">Scan</tspan>
+          </text>
+          <g transform="translate(4.929 4.922)">
+            <mask id="prefix__mock_transaction-t" fill="#fff">
+              <use xlink:href="#prefix__mock_transaction-s"/>
+            </mask>
+            <g fill="#000" fill-opacity=".54" mask="url(#prefix__mock_transaction-t)">
+              <path d="M0 0h13.064v13.064H0z"/>
+            </g>
+          </g>
+          <ellipse cx="11.5" cy="11.484" stroke="#2B3540" stroke-opacity=".33" stroke-width=".547" rx="11.5" ry="11.484"/>
+        </g>
+        <g transform="translate(148 118)">
+          <text fill="#2B3540" fill-opacity=".73" font-family="HelveticaNeue, Helvetica Neue" font-size="5.472" letter-spacing=".098">
+            <tspan x="1.428" y="29.078">Contact</tspan>
+          </text>
+          <g transform="translate(4.929 4.922)">
+            <mask id="prefix__mock_transaction-v" fill="#fff">
+              <use xlink:href="#prefix__mock_transaction-u"/>
+            </mask>
+            <g fill="#000" fill-opacity=".54" mask="url(#prefix__mock_transaction-v)">
+              <path d="M0 0h13.064v13.064H0z"/>
+            </g>
+          </g>
+          <ellipse cx="11.5" cy="11.484" stroke="#000" stroke-opacity=".33" stroke-width=".547" rx="11.5" ry="11.484"/>
+        </g>
+        <text fill="#000" fill-opacity=".38" font-family="HelveticaNeue, Helvetica Neue" font-size="6.567" letter-spacing=".199" transform="translate(9 225)">
+          <tspan x="0" y="5.453">Transaction History</tspan>
+        </text>
+        <text fill="#2B3540" font-family="Roboto-Medium, Roboto" font-size="10.944" font-weight="400" letter-spacing=".127" transform="translate(0 233)">
+          <tspan x="19.7" y="15.472">0.0012</tspan>
+        </text>
+        <text fill="#2B3540" font-family="Roboto-Medium, Roboto" font-size="5.472" font-weight="400" letter-spacing=".063" transform="translate(0 233)">
+          <tspan x="58.006" y="15.944">BTC</tspan>
+        </text>
+        <text fill="#000" font-family="HelveticaNeue, Helvetica Neue" font-size="5.472" letter-spacing=".076" opacity=".6" transform="translate(0 233)">
+          <tspan x="160.362" y="27.983">unconfirm</tspan>
+        </text>
+        <g transform="translate(168.923 242.303)">
+          <mask id="prefix__mock_transaction-x" fill="#fff">
+            <use xlink:href="#prefix__mock_transaction-w"/>
+          </mask>
+          <g fill="#FA0" mask="url(#prefix__mock_transaction-x)">
+            <path d="M0 0h11.452v10.944H0z"/>
+          </g>
+        </g>
+        <g transform="translate(8.756 270.211)">
+          <mask id="prefix__mock_transaction-z" fill="#fff">
+            <use xlink:href="#prefix__mock_transaction-y"/>
+          </mask>
+          <g fill="#000" fill-opacity=".87" mask="url(#prefix__mock_transaction-z)" opacity=".12">
+            <path d="M0 0h189.926v1.005H0z"/>
+          </g>
+        </g>
+        <g transform="rotate(-90 128.99 119.838)">
+          <mask id="prefix__mock_transaction-B" fill="#fff">
+            <use xlink:href="#prefix__mock_transaction-A"/>
+          </mask>
+          <g fill="#000" fill-opacity=".54" mask="url(#prefix__mock_transaction-B)">
+            <path d="M-1.39 7.91v-9.97h9.97v9.97z"/>
+          </g>
+        </g>
+        <path fill="#F71723" fill-rule="nonzero" d="M8.897 246.317c.085-.083.085-.247 0-.37l-.594-.577h2.292c.127 0 .255-.123.255-.247 0-.123-.128-.247-.255-.247H8.303l.594-.576c.085-.082.085-.247 0-.37-.085-.083-.254-.083-.382 0l-1.06 1.028c-.086.083-.086.247 0 .37l1.06.989a.274.274 0 0 0 .382 0z"/>
+        <text fill="#2B3540" fill-opacity=".73" font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="6.567" font-weight="400" letter-spacing=".188" transform="translate(0 233)">
+          <tspan x="9.126" y="27.889">34K5Q</tspan>
+        </text>
+        <text fill="#2B3540" fill-opacity=".73" font-family="HelveticaNeue, Helvetica Neue" font-size="6.567" letter-spacing=".188" transform="translate(0 233)">
+          <tspan x="31.942" y="27.889">qeb6FP1zgSVbga26pQRbN2GH6…</tspan>
+        </text>
+        <text fill="#2B3540" font-family="Roboto-Medium, Roboto" font-size="10.944" font-weight="400" letter-spacing=".127" transform="translate(0 271)">
+          <tspan x="19.7" y="15.472">0.0012</tspan>
+        </text>
+        <text fill="#2B3540" font-family="Roboto-Medium, Roboto" font-size="5.472" font-weight="400" letter-spacing=".063" transform="translate(0 271)">
+          <tspan x="58.006" y="15.944">BTC</tspan>
+        </text>
+        <text fill="#000" font-family="HelveticaNeue, Helvetica Neue" font-size="5.472" letter-spacing=".076" opacity=".6" transform="translate(0 271)">
+          <tspan x="160.362" y="27.983">unconfirm</tspan>
+        </text>
+        <g transform="translate(168.923 280.303)">
+          <mask id="prefix__mock_transaction-D" fill="#fff">
+            <use xlink:href="#prefix__mock_transaction-C"/>
+          </mask>
+          <g fill="#FA0" mask="url(#prefix__mock_transaction-D)">
+            <path d="M0 0h11.452v10.944H0z"/>
+          </g>
+        </g>
+        <g transform="translate(8.756 308.211)">
+          <mask id="prefix__mock_transaction-F" fill="#fff">
+            <use xlink:href="#prefix__mock_transaction-E"/>
+          </mask>
+          <g fill="#000" fill-opacity=".87" mask="url(#prefix__mock_transaction-F)" opacity=".12">
+            <path d="M0 0h189.926v1.005H0z"/>
+          </g>
+        </g>
+        <g transform="rotate(-90 147.99 138.838)">
+          <mask id="prefix__mock_transaction-H" fill="#fff">
+            <use xlink:href="#prefix__mock_transaction-G"/>
+          </mask>
+          <g fill="#000" fill-opacity=".54" mask="url(#prefix__mock_transaction-H)">
+            <path d="M-1.39 7.91v-9.97h9.97v9.97z"/>
+          </g>
+        </g>
+        <path fill="#F71723" fill-rule="nonzero" d="M8.897 284.317c.085-.083.085-.247 0-.37l-.594-.577h2.292c.127 0 .255-.123.255-.247 0-.123-.128-.247-.255-.247H8.303l.594-.576c.085-.082.085-.247 0-.37-.085-.083-.254-.083-.382 0l-1.06 1.028c-.086.083-.086.247 0 .37l1.06.989a.274.274 0 0 0 .382 0z"/>
+        <text fill="#2B3540" fill-opacity=".73" font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="6.567" font-weight="400" letter-spacing=".188" transform="translate(0 271)">
+          <tspan x="9.126" y="27.889">34K5Q</tspan>
+        </text>
+        <text fill="#2B3540" fill-opacity=".73" font-family="HelveticaNeue, Helvetica Neue" font-size="6.567" letter-spacing=".188" transform="translate(0 271)">
+          <tspan x="31.942" y="27.889">qeb6FP1zgSVbga26pQRbN2GH6…</tspan>
+        </text>
+        <g transform="translate(9.378 20.378)">
+          <mask id="prefix__mock_transaction-J" fill="#fff">
+            <use xlink:href="#prefix__mock_transaction-I"/>
+          </mask>
+          <g fill="#FFF" mask="url(#prefix__mock_transaction-J)">
+            <path d="M0 0h13.064v13.064H0z"/>
+          </g>
+        </g>
+        <g transform="translate(182.472 22.094)">
+          <mask id="prefix__mock_transaction-L" fill="#fff">
+            <use xlink:href="#prefix__mock_transaction-K"/>
+          </mask>
+          <g fill="#FFF" mask="url(#prefix__mock_transaction-L)">
+            <path d="M-5.472 11.468V-.496h12.96v11.964z"/>
+          </g>
+        </g>
+        <text fill="#5699FF" font-family="HelveticaNeue, Helvetica Neue" font-size="6.567" letter-spacing=".199" transform="translate(170.733 172.455)">
+          <tspan x="0" y="5.453">Copy</tspan>
+        </text>
+        <g fill="#2B3540">
+          <text font-family="Roboto-Medium, Roboto" font-size="7.661" font-weight="400" letter-spacing=".137" transform="translate(8.756 172.455)">
+            <tspan x="0" y="19.586">34K5Q</tspan> <tspan x="23.866" y="19.586" font-family="Roboto-Regular, Roboto" font-weight="normal">qeb6FP1zgSVbgpN2GH1EArqPwoC1</tspan> <tspan x="0" y="30.531" font-family="Roboto-Regular, Roboto" font-weight="normal">09UTjc</tspan>
+          </text>
+          <text fill-opacity=".73" font-family="HelveticaNeue, Helvetica Neue" font-size="6.567" letter-spacing=".199" transform="translate(8.756 172.441)">
+            <tspan x="0" y="5.453">Wallet Address</tspan>
+          </text>
+        </g>
+        <text fill="#FFF" font-family="HelveticaNeue, Helvetica Neue" font-size="10.944" letter-spacing=".134" transform="translate(0 -1)">
+          <tspan x="36" y="32">Saving</tspan>
+        </text>
+        <text fill="#2B3540" fill-opacity=".47" font-family="Roboto-Medium, Roboto" font-size="10.944" font-weight="400" letter-spacing=".127" transform="translate(0 384)">
+          <tspan x="19.7" y="15.472">0.0012</tspan>
+        </text>
+        <text fill="#3E3E3E" fill-opacity=".47" font-family="Roboto-Medium, Roboto" font-size="5.472" font-weight="400" letter-spacing=".063" transform="translate(0 384)">
+          <tspan x="58.006" y="15.944">BTC</tspan>
+        </text>
+        <g transform="translate(9.345 392.419)">
+          <mask id="prefix__mock_transaction-N" fill="#fff">
+            <use xlink:href="#prefix__mock_transaction-M"/>
+          </mask>
+          <g fill="#000" fill-opacity=".38" mask="url(#prefix__mock_transaction-N)">
+            <path d="M-2.53 8.74V-2.225H8.437V8.74z"/>
+          </g>
+        </g>
+        <path fill="#F71723" fill-rule="nonzero" d="M9.113 397.558a.282.282 0 0 0 0-.37l-.602-.556h2.27c.138 0 .23-.138.23-.231 0-.139-.138-.232-.23-.232H8.51l.602-.648c.093-.092.093-.231 0-.37-.092-.093-.231-.093-.37 0l-1.065 1.018c-.093.093-.093.232 0 .37l1.065 1.02c.139.092.278.092.37 0z"/>
+        <g fill="#3E3E3E" font-size="6.567" letter-spacing=".188" opacity=".47">
+          <text font-family="HelveticaNeue-Medium, Helvetica Neue" font-weight="400" transform="translate(8.756 405.889)">
+            <tspan x="0" y="6">34K5Q</tspan>
+          </text>
+          <text font-family="HelveticaNeue, Helvetica Neue" transform="translate(8.756 405.889)">
+            <tspan x="21.889" y="6">qeb6FP1zgSVbga26pQRbN2GH6…</tspan>
+          </text>
+        </g>
+        <text fill="#2B3540" fill-opacity=".47" font-family="Roboto-Medium, Roboto" font-size="5.472" font-weight="400" letter-spacing=".039" transform="translate(0 384)">
+          <tspan x="166.704" y="13.208">Today</tspan>
+        </text>
+        <text fill="#2B3540" fill-opacity=".47" font-family="HelveticaNeue, Helvetica Neue" font-size="5.472" letter-spacing=".157" transform="translate(0 384)">
+          <tspan x="165.194" y="24.153">5h ago</tspan>
+        </text>
+        <text fill="#3E3E3E" font-family="Roboto-Medium, Roboto" font-size="10.944" font-weight="400" letter-spacing=".127" transform="translate(0 347)">
+          <tspan x="19.7" y="15.472">0.0012</tspan>
+        </text>
+        <text fill="#3E3E3E" font-family="Roboto-Medium, Roboto" font-size="5.472" font-weight="400" letter-spacing=".063" transform="translate(0 347)">
+          <tspan x="56.911" y="15.944">BTC</tspan>
+        </text>
+        <g transform="rotate(-90 185.99 176.838)">
+          <mask id="prefix__mock_transaction-P" fill="#fff">
+            <use xlink:href="#prefix__mock_transaction-O"/>
+          </mask>
+          <g fill="#000" fill-opacity=".54" mask="url(#prefix__mock_transaction-P)">
+            <path d="M-1.39 7.91v-9.97h9.97v9.97z"/>
+          </g>
+        </g>
+        <path fill="#F71723" fill-rule="nonzero" d="M8.897 360.317c.085-.083.085-.247 0-.37l-.594-.577h2.292c.127 0 .255-.123.255-.247 0-.123-.128-.247-.255-.247H8.303l.594-.576c.085-.082.085-.247 0-.37-.085-.083-.254-.083-.382 0l-1.06 1.028c-.086.083-.086.247 0 .37l1.06.989a.274.274 0 0 0 .382 0z"/>
+        <g transform="translate(8.756 384.211)">
+          <mask id="prefix__mock_transaction-R" fill="#fff">
+            <use xlink:href="#prefix__mock_transaction-Q"/>
+          </mask>
+          <g fill="#000" fill-opacity=".87" mask="url(#prefix__mock_transaction-R)" opacity=".12">
+            <path d="M0 0h189.926v1.005H0z"/>
+          </g>
+        </g>
+        <text fill="#2B3540" font-family="Roboto-Medium, Roboto" font-size="5.472" font-weight="400" letter-spacing=".039" transform="translate(0 347)">
+          <tspan x="166.704" y="13.208">Today</tspan>
+        </text>
+        <text fill="#2B3540" fill-opacity=".73" font-family="HelveticaNeue, Helvetica Neue" font-size="5.472" letter-spacing=".157" transform="translate(0 347)">
+          <tspan x="164.341" y="24.153">5h ago</tspan>
+        </text>
+        <text fill="#2B3540" fill-opacity=".73" font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="6.567" font-weight="400" letter-spacing=".188" transform="translate(0 347)">
+          <tspan x="9.126" y="27.889">34K5Q</tspan>
+        </text>
+        <text fill="#2B3540" fill-opacity=".73" font-family="HelveticaNeue, Helvetica Neue" font-size="6.567" letter-spacing=".188" transform="translate(0 347)">
+          <tspan x="31.942" y="27.889">qeb6FP1zgSVbga26pQRbN2GH6…</tspan>
+        </text>
+        <text fill="#2B3540" font-family="Roboto-Regular, Roboto" font-size="5.472" letter-spacing=".046" transform="translate(0 309)">
+          <tspan x="161.751" y="13.208">Yesterday</tspan>
+        </text>
+        <text fill="#2B3540" fill-opacity=".73" font-family="HelveticaNeue, Helvetica Neue" font-size="5.472" letter-spacing=".157" transform="translate(0 309)">
+          <tspan x="162.04" y="23.606">01:58 pm</tspan>
+        </text>
+        <text fill="#2B3540" font-family="Roboto-Medium, Roboto" font-size="10.944" font-weight="400" letter-spacing=".127" transform="translate(0 309)">
+          <tspan x="19.7" y="15.472">0.0012</tspan>
+        </text>
+        <text fill="#2B3540" font-family="Roboto-Medium, Roboto" font-size="5.472" font-weight="400" letter-spacing=".063" transform="translate(0 309)">
+          <tspan x="58.669" y="15.944">BTC</tspan>
+        </text>
+        <g transform="rotate(-90 167.567 157.492)">
+          <mask id="prefix__mock_transaction-T" fill="#fff">
+            <use xlink:href="#prefix__mock_transaction-S"/>
+          </mask>
+          <g fill="#000" fill-opacity=".54" mask="url(#prefix__mock_transaction-T)">
+            <path d="M-1.369 7.476v-9.97h9.97v9.97z"/>
+          </g>
+        </g>
+        <path fill="#47CC5D" fill-rule="nonzero" d="M9.738 320.079c-.085.082-.085.247 0 .37l.718.7H8.173c-.127 0-.253.123-.253.247 0 .123.126.247.253.247h2.283l-.676.658c-.127.083-.127.247 0 .33.084.082.254.082.38 0l1.142-1.112c.084-.082.084-.247 0-.37l-1.142-1.111a.332.332 0 0 0-.422.04z"/>
+        <g transform="translate(8.756 346.211)">
+          <mask id="prefix__mock_transaction-V" fill="#fff">
+            <use xlink:href="#prefix__mock_transaction-U"/>
+          </mask>
+          <g fill="#000" fill-opacity=".87" mask="url(#prefix__mock_transaction-V)" opacity=".12">
+            <path d="M0 0h189.926v1.005H0z"/>
+          </g>
+        </g>
+        <g fill="#2B3540" fill-opacity=".73" font-size="6.567" letter-spacing=".188">
+          <text font-family="HelveticaNeue-Medium, Helvetica Neue" font-weight="400" transform="translate(8.756 330.889)">
+            <tspan x="0" y="6">34K5Q</tspan>
+          </text>
+          <text font-family="HelveticaNeue, Helvetica Neue" transform="translate(8.756 330.889)">
+            <tspan x="21.889" y="6">qeb6FP1zgSVbga26pQRbN2GH6…</tspan>
+          </text>
+        </g>
+        <path fill="#EBEBEB" d="M62.924 412.331h67.717c1.018 0 1.843.744 1.843 1.662 0 .917-.825 1.66-1.843 1.66H62.924c-1.018 0-1.843-.743-1.843-1.66 0-.918.825-1.662 1.843-1.662z"/>
+      </g>
+    </g>
+    <g fill="#F0F3F5" transform="translate(125 47)">
+      <path d="M1.958 1.5h23.494c1.082 0 1.958.951 1.958 2.125s-.876 2.125-1.958 2.125H1.958C.877 5.75 0 4.799 0 3.625S.877 1.5 1.958 1.5z"/>
+      <ellipse cx="37.775" cy="3.5" rx="3.225" ry="3.5"/>
+    </g>
+  </g>
+</svg>

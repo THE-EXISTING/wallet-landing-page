@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24">
+  <defs>
+    <linearGradient id="prefix__ic_manu_gradient-a" x1="-13.354%" x2="117.946%" y1="4.525%" y2="95.368%">
+      <stop offset="0%" stop-color="#32A7E6"/>
+      <stop offset="100%" stop-color="#64E3B2"/>
+    </linearGradient>
+  </defs>
+  <path fill="url(#prefix__ic_manu_gradient-a)" d="M3 18h18v-2H3v2zm0-5h18v-2H3v2zm0-7v2h18V6H3z"/>
+</svg>

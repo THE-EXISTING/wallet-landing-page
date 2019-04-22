@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1762" height="1762">
+  <defs>
+    <path id="prefix__background_diamond_2-b" d="M943.88 83.046l735.074 735.073c34.728 34.728 34.728 91.034 0 125.762l-735.073 735.073c-34.728 34.728-91.034 34.728-125.762 0L83.046 943.881c-34.728-34.728-34.728-91.034 0-125.762L818.119 83.046c34.728-34.728 91.034-34.728 125.762 0z"/>
+    <filter id="prefix__background_diamond_2-a" width="109.1%" height="109.1%" x="-3.8%" y="-3.6%" filterUnits="objectBoundingBox">
+      <feOffset dx="13" dy="15" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="22.5"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0.0901960784 0 0 0 0 0.501960784 0 0 0 0 0.878431373 0 0 0 0.271031476 0"/>
+    </filter>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <use fill="#000" filter="url(#prefix__background_diamond_2-a)" xlink:href="#prefix__background_diamond_2-b"/>
+    <use fill="#F6F9FD" xlink:href="#prefix__background_diamond_2-b"/>
+  </g>
+</svg>
