@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24">
+  <defs>
+    <path id="prefix__ic_nextarrow_black-a" d="M22.313 10.711H6.586l7.219-7.219L12 1.688 1.688 12 12 22.313l1.805-1.805-7.219-7.219h15.727z"/>
+  </defs>
+  <use fill-rule="evenodd" transform="matrix(-1 0 0 1 24 0)" xlink:href="#prefix__ic_nextarrow_black-a"/>
+</svg>

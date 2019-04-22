@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24">
+  <defs>
+    <path id="prefix__ic_nextarrow_white-a" d="M1.688 10.711h15.726l-7.219-7.219L12 1.688 22.313 12 12 22.313l-1.805-1.805 7.219-7.219H1.688z"/>
+  </defs>
+  <use fill="#FFF" fill-rule="evenodd" xlink:href="#prefix__ic_nextarrow_white-a"/>
+</svg>

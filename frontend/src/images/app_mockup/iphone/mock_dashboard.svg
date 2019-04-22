@@ -1,0 +1,476 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="290" height="520">
+  <defs>
+    <path id="prefix__mock_dashboard-b" d="M74.619 35h141.074C238.934 35 257 44.282 257 75.637v363.546c0 16.741-.805 45.817-39.238 45.817H68.98C52.22 485 34 474.889 34 446.205V75.637C34 42.172 54.896 35 74.619 35z"/>
+    <filter id="prefix__mock_dashboard-a" width="154.3%" height="126.9%" x="-27.1%" y="-10.6%" filterUnits="objectBoundingBox">
+      <feOffset dy="13" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="18"/>
+      <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0.196078431 0 0 0 0 0.654901961 0 0 0 0 0.901960784 0 0 0 0.12 0"/>
+    </filter>
+    <path id="prefix__mock_dashboard-c" d="M141.426 16.105c8.217.116 11.825-7.237 11.921-12.37 0-2.724.778-3.618 3.82-3.618h17.592c10.067 0 21.64 4.668 21.64 22.64V406c0 14.47-7.638 22.64-24.65 22.64H22.797C5.44 428.64 0 418.02 0 406.35V21.473C0 6.769 10.416 0 20.138 0h19.559c2.777 0 3.356 1.634 3.356 3.501s.998 12.409 12.5 12.487c9.72 0 74.879.117 85.873.117z"/>
+    <filter id="prefix__mock_dashboard-d" width="102.3%" height="101%" x="-1.1%" y="-.5%" filterUnits="objectBoundingBox">
+      <feMorphology in="SourceAlpha" operator="dilate" radius=".724" result="shadowSpreadOuter1"/>
+      <feOffset in="shadowSpreadOuter1" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation=".5"/>
+      <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"/>
+      <feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.04 0"/>
+    </filter>
+    <path id="prefix__mock_dashboard-f" d="M12.586 0a2.736 2.736 0 1 1 0 5.472 2.736 2.736 0 0 1 0-5.472zm9.303 5.472L18.606 0h6.566L21.89 5.472zM0 0h5.472v5.472H0V0z"/>
+    <path id="prefix__mock_dashboard-h" d="M0 0h197v30.644H0z"/>
+    <path id="prefix__mock_dashboard-j" d="M0 0h196.794v1H0z"/>
+    <path id="prefix__mock_dashboard-l" d="M6.567 11.902c.602 0 1.094-.492 1.094-1.094H5.472c0 .602.493 1.094 1.095 1.094zM9.85 8.62V5.883c0-1.68-.892-3.087-2.462-3.459v-.372a.82.82 0 1 0-1.642 0v.372c-1.565.372-2.463 1.773-2.463 3.459v2.736L2.19 9.713v.547h8.755v-.547L9.85 8.62zm-1.094.547H4.378V5.883c0-1.357.826-2.463 2.189-2.463 1.362 0 2.189 1.106 2.189 2.463v3.283z"/>
+    <path id="prefix__mock_dashboard-n" d="M12.039 7.77V2.19c0-.602-.493-1.095-1.095-1.095H2.19c-.602 0-1.095.493-1.095 1.095v6.567c0 .601.493 1.094 1.095 1.094h3.72c.274 1.532 1.642 2.681 3.229 2.681a3.293 3.293 0 0 0 3.283-3.283c0-.547-.164-1.04-.383-1.477zm-9.85-5.58h8.755v1.094H2.19V2.19zm3.666 6.567H2.19V5.472h8.755v1.04c-.547-.328-1.149-.547-1.805-.547-1.642 0-3.01 1.204-3.284 2.79zm5.09.875H9.521v1.423H8.7V9.63H7.278v-.82h1.423V7.387h.82V8.81h1.423v.821z"/>
+    <path id="prefix__mock_dashboard-p" d="M4.925 7.524c-1.28 0-3.83.64-3.83 1.916v.957h7.66V9.44c0-1.275-2.55-1.916-3.83-1.916zm-2.55 1.779c.46-.318 1.57-.684 2.55-.684.98 0 2.09.366 2.55.684h-5.1zm2.55-2.736c1.056 0 1.915-.86 1.915-1.916s-.859-1.915-1.915-1.915-1.915.86-1.915 1.915c0 1.057.859 1.916 1.915 1.916zm0-2.736a.82.82 0 1 1 0 1.641.82.82 0 1 1 0-1.641zm3.852 3.726c.635.46 1.073 1.073 1.073 1.883v.957h2.189V9.44c0-1.106-1.915-1.735-3.262-1.883zm-.569-.99c1.056 0 1.916-.86 1.916-1.916s-.86-1.915-1.916-1.915c-.295 0-.569.071-.82.192a2.984 2.984 0 0 1 0 3.447c.251.12.525.192.82.192z"/>
+    <path id="prefix__mock_dashboard-r" d="M8.687 4.925L6.564 7.048 4.44 4.925a.545.545 0 1 0-.772.772L6.18 8.208a.545.545 0 0 0 .771 0l2.512-2.511a.545.545 0 0 0 0-.772.557.557 0 0 0-.777 0z"/>
+    <path id="prefix__mock_dashboard-t" d="M4.378 0h166.355a4.378 4.378 0 0 1 4.378 4.378v26.266a4.378 4.378 0 0 1-4.378 4.378H4.378A4.378 4.378 0 0 1 0 30.644V4.378A4.378 4.378 0 0 1 4.378 0z"/>
+    <linearGradient id="prefix__mock_dashboard-u" x1="0%" y1="48.024%" y2="51.976%">
+      <stop offset="0%" stop-color="#57809E"/>
+      <stop offset="100%" stop-color="#4D6594"/>
+    </linearGradient>
+    <path id="prefix__mock_dashboard-w" d="M8.687 4.925L6.564 7.048 4.44 4.925a.545.545 0 1 0-.772.772L6.18 8.208a.545.545 0 0 0 .771 0l2.512-2.511a.545.545 0 0 0 0-.772.557.557 0 0 0-.777 0z"/>
+    <path id="prefix__mock_dashboard-y" d="M17.42 9.133a8.293 8.293 0 1 1-16.586 0 8.293 8.293 0 0 1 16.586 0zM5.455 10.161l3.557 1.872v-9.2l-3.557 7.328zm7.344 0l-3.57-7.33v9.202l3.57-1.872zm-7.344.268l3.557 4.645V12.21l-3.557-1.78zm7.344 0l-3.57 1.781v2.864l3.57-4.645z"/>
+    <path id="prefix__mock_dashboard-A" d="M4.378 0h166.355a4.378 4.378 0 0 1 4.378 4.378v26.266a4.378 4.378 0 0 1-4.378 4.378H4.378A4.378 4.378 0 0 1 0 30.644V4.378A4.378 4.378 0 0 1 4.378 0z"/>
+    <linearGradient id="prefix__mock_dashboard-B" x1="0%" y1="48.024%" y2="51.976%">
+      <stop offset="0%" stop-color="#EDBC4A"/>
+      <stop offset="100%" stop-color="#FAA04B"/>
+    </linearGradient>
+    <path id="prefix__mock_dashboard-D" d="M8.687 4.925L6.564 7.048 4.44 4.925a.545.545 0 1 0-.772.772L6.18 8.208a.545.545 0 0 0 .771 0l2.512-2.511a.545.545 0 0 0 0-.772.557.557 0 0 0-.777 0z"/>
+    <path id="prefix__mock_dashboard-F" d="M17.427 9.092a8.335 8.335 0 1 1-16.67 0 8.335 8.335 0 0 1 16.67 0zm-6.19 2.368a.886.886 0 0 1-1.1.602l-2.264-.683.505-1.715 2.264.683c.467.14.733.64.594 1.113zM12 7.945a.9.9 0 0 1 .07.68.883.883 0 0 1-1.1.603l-2.263-.683.504-1.715 2.264.683a.88.88 0 0 1 .525.432zm1.013-.556a2.028 2.028 0 0 0-1.209-.995l-.3-.09.42-1.426-1.076-.325-.42 1.426-.918-.277.42-1.426-.258-.078-1.045-.315-.404 1.375-1.272-.384-.36 1.222 1.273.384-1.307 4.446-1.273-.384-.359 1.221 1.272.384-.34 1.16.257.078 1.044.315.357-1.212.92.278-.356 1.212 1.072.323.356-1.211.302.09a2.004 2.004 0 0 0 1.55-.163c.478-.261.826-.696.982-1.224a2.079 2.079 0 0 0-.177-1.596 2.072 2.072 0 0 0 .85-2.808z"/>
+    <path id="prefix__mock_dashboard-H" d="M4.378 0h166.355a4.378 4.378 0 0 1 4.378 4.378v26.266a4.378 4.378 0 0 1-4.378 4.378H4.378A4.378 4.378 0 0 1 0 30.644V4.378A4.378 4.378 0 0 1 4.378 0z"/>
+    <linearGradient id="prefix__mock_dashboard-I" x1=".546%" x2="96.012%" y1="48.046%" y2="51.818%">
+      <stop offset="0%" stop-color="#30A9C7"/>
+      <stop offset="100%" stop-color="#3776AD"/>
+    </linearGradient>
+    <path id="prefix__mock_dashboard-K" d="M8.687 4.925L6.564 7.048 4.44 4.925a.545.545 0 1 0-.772.772L6.18 8.208a.545.545 0 0 0 .771 0l2.512-2.511a.545.545 0 0 0 0-.772.557.557 0 0 0-.777 0z"/>
+    <path id="prefix__mock_dashboard-M" d="M17.427 9.092a8.335 8.335 0 1 1-16.67 0 8.335 8.335 0 0 1 16.67 0zM7.62 9.068a1.448 1.448 0 0 1-1.446-1.447c0-.797.649-1.446 1.446-1.446.798 0 1.447.649 1.447 1.446 0 .798-.649 1.447-1.447 1.447zm1.32-2.893h.384V5.66H7.621c-1.08 0-1.96.88-1.96 1.961 0 1.082.88 1.962 1.96 1.962 1.082 0 1.962-.88 1.962-1.962 0-.573-.249-1.087-.642-1.446zm2.603 2.893a1.448 1.448 0 0 1-1.447-1.447c0-.797.649-1.446 1.447-1.446.797 0 1.446.649 1.446 1.446 0 .798-.649 1.447-1.446 1.447zm0-3.408c-1.082 0-1.961.88-1.961 1.961 0 1.082.88 1.962 1.96 1.962 1.082 0 1.962-.88 1.962-1.962 0-1.08-.88-1.96-1.961-1.96zM7.62 12.99a1.448 1.448 0 0 1-1.446-1.446c0-.798.649-1.447 1.446-1.447.798 0 1.447.649 1.447 1.447 0 .797-.649 1.446-1.447 1.446zm0-3.407c-1.08 0-1.96.88-1.96 1.96 0 1.082.88 1.962 1.96 1.962 1.082 0 1.962-.88 1.962-1.961 0-1.082-.88-1.961-1.962-1.961z"/>
+    <path id="prefix__mock_dashboard-O" d="M4.378 0h166.355a4.378 4.378 0 0 1 4.378 4.378v26.266a4.378 4.378 0 0 1-4.378 4.378H4.378A4.378 4.378 0 0 1 0 30.644V4.378A4.378 4.378 0 0 1 4.378 0z"/>
+    <path id="prefix__mock_dashboard-Q" d="M8.687 4.925L6.564 7.048 4.44 4.925a.545.545 0 1 0-.772.772L6.18 8.208a.545.545 0 0 0 .771 0l2.512-2.511a.545.545 0 0 0 0-.772.557.557 0 0 0-.777 0z"/>
+    <path id="prefix__mock_dashboard-S" d="M17.427 9.092a8.335 8.335 0 1 1-16.67 0 8.335 8.335 0 0 1 16.67 0zm-6.19 2.368a.886.886 0 0 1-1.1.602l-2.264-.683.505-1.715 2.264.683c.467.14.733.64.594 1.113zM12 7.945a.9.9 0 0 1 .07.68.883.883 0 0 1-1.1.603l-2.263-.683.504-1.715 2.264.683a.88.88 0 0 1 .525.432zm1.013-.556a2.028 2.028 0 0 0-1.209-.995l-.3-.09.42-1.426-1.076-.325-.42 1.426-.918-.277.42-1.426-.258-.078-1.045-.315-.404 1.375-1.272-.384-.36 1.222 1.273.384-1.307 4.446-1.273-.384-.359 1.221 1.272.384-.34 1.16.257.078 1.044.315.357-1.212.92.278-.356 1.212 1.072.323.356-1.211.302.09a2.004 2.004 0 0 0 1.55-.163c.478-.261.826-.696.982-1.224a2.079 2.079 0 0 0-.177-1.596 2.072 2.072 0 0 0 .85-2.808z"/>
+    <path id="prefix__mock_dashboard-U" d="M0 0h185.806v1H0z"/>
+    <path id="prefix__mock_dashboard-W" d="M1.745 6.245h1.557c.252 0 .496-.04.733-.118.238-.079.449-.21.634-.392.185-.182.334-.42.445-.713.11-.294.167-.651.167-1.073 0-.387-.04-.735-.117-1.047a2.055 2.055 0 0 0-.384-.799 1.697 1.697 0 0 0-.706-.51c-.292-.118-.654-.177-1.084-.177H1.745v4.829zM0 0h3.424c.511 0 .988.079 1.429.236.44.157.822.393 1.145.708.322.315.574.708.755 1.18.182.473.273 1.027.273 1.664 0 .558-.074 1.073-.222 1.545-.149.472-.373.88-.673 1.223-.3.343-.674.613-1.123.81-.448.197-.976.295-1.584.295H0V0zm8.238 0h5.936v1.416H9.983v1.642h3.846v1.309H9.983v1.878h4.28V7.66H8.238V0zm7.203 0h1.746v6.245h3.868V7.66h-5.614V0zm6.593 0h1.745v6.245h3.869V7.66h-5.614V0zm6.592 0h5.936v1.416h-4.19v1.642h3.846v1.309H30.37v1.878h4.28V7.66h-6.025V0zm8.96 1.416h-2.379V0h6.503v1.416h-2.379v6.245h-1.745V1.416z"/>
+    <linearGradient id="prefix__mock_dashboard-X" x1="0%" y1="45.195%" y2="54.805%">
+      <stop offset="0%" stop-color="#2196F3" stop-opacity=".98"/>
+      <stop offset="100%" stop-color="#8DCBB3"/>
+    </linearGradient>
+    <circle id="prefix__mock_dashboard-Z" cx="1.094" cy="1.094" r="1.094"/>
+    <path id="prefix__mock_dashboard-ab" d="M78.8.322c0 10.88 8.82 19.7 19.7 19.7 10.88 0 19.7-8.82 19.7-19.7H197v30.645H0V.322h78.8z"/>
+    <filter id="prefix__mock_dashboard-ac" width="103.6%" height="122.8%" x="-1.8%" y="-8.2%" filterUnits="objectBoundingBox">
+      <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="1"/>
+      <feColorMatrix in="shadowBlurOuter1" result="shadowMatrixOuter1" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.2 0"/>
+      <feMorphology in="SourceAlpha" radius=".5" result="shadowSpreadOuter2"/>
+      <feOffset dy="1" in="shadowSpreadOuter2" result="shadowOffsetOuter2"/>
+      <feGaussianBlur in="shadowOffsetOuter2" result="shadowBlurOuter2" stdDeviation=".5"/>
+      <feColorMatrix in="shadowBlurOuter2" result="shadowMatrixOuter2" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.12 0"/>
+      <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter3"/>
+      <feGaussianBlur in="shadowOffsetOuter3" result="shadowBlurOuter3" stdDeviation=".5"/>
+      <feColorMatrix in="shadowBlurOuter3" result="shadowMatrixOuter3" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.14 0"/>
+      <feMerge>
+        <feMergeNode in="shadowMatrixOuter1"/>
+        <feMergeNode in="shadowMatrixOuter2"/>
+        <feMergeNode in="shadowMatrixOuter3"/>
+      </feMerge>
+    </filter>
+    <path id="prefix__mock_dashboard-ae" d="M10.944 2.189H2.19c-.608 0-1.09.487-1.09 1.094L1.095 9.85a1.09 1.09 0 0 0 1.095 1.094h8.755A1.09 1.09 0 0 0 12.04 9.85V3.283a1.09 1.09 0 0 0-1.095-1.094zm0 7.661H2.19V6.567h8.755V9.85zm0-5.472H2.19V3.283h8.755v1.095z"/>
+    <rect id="prefix__mock_dashboard-ag" width="30.644" height="30.644" rx="15.322"/>
+    <filter id="prefix__mock_dashboard-ah" width="152.2%" height="152.2%" x="-26.1%" y="-22.8%" filterUnits="objectBoundingBox">
+      <feMorphology in="SourceAlpha" radius=".5" result="shadowSpreadOuter1"/>
+      <feOffset dy="1" in="shadowSpreadOuter1" result="shadowOffsetOuter1"/>
+      <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="1"/>
+      <feColorMatrix in="shadowBlurOuter1" result="shadowMatrixOuter1" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.2 0"/>
+      <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter2"/>
+      <feGaussianBlur in="shadowOffsetOuter2" result="shadowBlurOuter2" stdDeviation="2.5"/>
+      <feColorMatrix in="shadowBlurOuter2" result="shadowMatrixOuter2" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.12 0"/>
+      <feOffset dy="2" in="SourceAlpha" result="shadowOffsetOuter3"/>
+      <feGaussianBlur in="shadowOffsetOuter3" result="shadowBlurOuter3" stdDeviation="1.5"/>
+      <feColorMatrix in="shadowBlurOuter3" result="shadowMatrixOuter3" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.14 0"/>
+      <feMerge>
+        <feMergeNode in="shadowMatrixOuter1"/>
+        <feMergeNode in="shadowMatrixOuter2"/>
+        <feMergeNode in="shadowMatrixOuter3"/>
+      </feMerge>
+    </filter>
+    <path id="prefix__mock_dashboard-aj" d="M3.557 6.898v-.662h.662v.662h-.662zm0-1.325V3.557h2.016v2.016H3.557zm1.354-.662h-.03V4.22H4.22v.692h.692zm2.649.662V3.557h2.016v2.016H7.56zm.692-.662h.662V4.22h-.662v.692zM3.557 9.576V7.56h2.016v2.016H3.557zm1.354-.662h-.03v-.662H4.22v.662h.692zm1.325-3.34V4.218h.662v1.354h-.662zm.662.662V7.56h-.663v-.662h-.661v-.662h1.324zM8.252 7.56v1.354H6.898v.662h-.663V8.252H7.56V7.56h.692zm-.692-.662v-.662h.692v.662H7.56zm.692.662v-.662h.662v.662h-.662zm.662-.662v-.662h.662v.662h-.662zm0 2.016V7.56h.662v1.354h-.662zm-.662.662v-.662h.662v.662h-.662zM1.094 2.31v2.433H2.31V2.31h2.433V1.094H2.31A1.22 1.22 0 0 0 1.094 2.31zM2.31 8.39H1.094v2.433a1.22 1.22 0 0 0 1.216 1.216h2.433v-1.216H2.31V8.39zm8.513 2.433H8.39v1.216h2.432a1.22 1.22 0 0 0 1.216-1.216V8.39h-1.216v2.432zm0-9.729H8.39V2.31h2.432v2.433h1.216V2.31a1.22 1.22 0 0 0-1.216-1.216z"/>
+    <path id="prefix__mock_dashboard-al" d="M4.378 0h166.355a4.378 4.378 0 0 1 4.378 4.378v26.266a4.378 4.378 0 0 1-4.378 4.378H4.378A4.378 4.378 0 0 1 0 30.644V4.378A4.378 4.378 0 0 1 4.378 0z"/>
+    <linearGradient id="prefix__mock_dashboard-am" x1="0%" x2="94.067%" y1="48.024%" y2="51.742%">
+      <stop offset="0%" stop-color="#FCB972"/>
+      <stop offset="100%" stop-color="#EB944D"/>
+    </linearGradient>
+    <path id="prefix__mock_dashboard-ao" d="M8.687 4.925L6.564 7.048 4.44 4.925a.545.545 0 1 0-.772.772L6.18 8.208a.545.545 0 0 0 .771 0l2.512-2.511a.545.545 0 0 0 0-.772.557.557 0 0 0-.777 0z"/>
+    <path id="prefix__mock_dashboard-aq" d="M10.39 10.665v2.58H7.793v-2.597h2.599V8.066h2.598v2.599h-2.6zM7.793 8.049V5.47h2.599v2.597h-2.6v2.582H5.194v-2.6h2.598zm-5.677 0H.76C1.39 4.02 4.886.924 9.09.924c4.206 0 7.701 3.094 8.331 7.125h-1.354A7.1 7.1 0 0 0 9.09 2.258a7.1 7.1 0 0 0-6.976 5.791zm13.956 2.599h1.354c-.623 4.039-4.122 7.142-8.333 7.142S1.38 14.687.758 10.648h1.354a7.1 7.1 0 0 0 6.98 5.808 7.1 7.1 0 0 0 6.98-5.808z"/>
+    <path id="prefix__mock_dashboard-as" d="M6.567 1.094a5.474 5.474 0 0 0-5.473 5.473 5.474 5.474 0 0 0 5.473 5.472 5.474 5.474 0 0 0 5.472-5.472 5.474 5.474 0 0 0-5.472-5.473zm0 1.642a1.64 1.64 0 0 1 1.641 1.642 1.64 1.64 0 0 1-1.641 1.641 1.64 1.64 0 0 1-1.642-1.641 1.64 1.64 0 0 1 1.642-1.642zm0 7.77a3.94 3.94 0 0 1-3.284-1.761c.017-1.09 2.19-1.686 3.284-1.686 1.089 0 3.267.597 3.283 1.686a3.94 3.94 0 0 1-3.283 1.762z"/>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <use fill="#000" filter="url(#prefix__mock_dashboard-a)" xlink:href="#prefix__mock_dashboard-b"/>
+    <path fill="#FFF" stroke="#E8E8E8" stroke-linejoin="square" stroke-opacity=".8" stroke-width="1.086" d="M74.619 35.543c-11.28 0-20.529 2.336-27.372 7.655-8.248 6.41-12.704 16.981-12.704 32.439v370.568c0 25.054 14.356 38.252 34.437 38.252h148.782c17.262 0 27.92-5.81 33.552-16.344 4.07-7.61 5.143-15.675 5.143-28.93V75.637c0-28.079-14.29-40.094-40.764-40.094H74.62z"/>
+    <g transform="translate(47 46)">
+      <mask id="prefix__mock_dashboard-e" fill="#fff">
+        <use xlink:href="#prefix__mock_dashboard-c"/>
+      </mask>
+      <g opacity=".6">
+        <use fill="#000" filter="url(#prefix__mock_dashboard-d)" xlink:href="#prefix__mock_dashboard-c"/>
+        <path fill="#F3F3F3" stroke="#E8E8E8" stroke-width=".724" d="M141.426 15.743h.006c6.914.098 11.434-5.644 11.553-12.009 0-2.99 1.008-3.98 4.181-3.98h17.593c13.201 0 22.003 7.237 22.003 23.003V406c0 15.115-8.266 23.001-25.013 23.001H22.797c-15.735 0-23.159-8.653-23.159-22.651V21.473c0-13.481 9.038-21.835 20.5-21.835h19.559c2.665 0 3.718 1.374 3.718 3.863 0 1.853.577 4.496 1.887 6.731 1.975 3.37 5.286 5.36 10.25 5.394a45613.636 45613.636 0 0 1 43.118.06c26.87.04 38.19.057 42.756.057z"/>
+      </g>
+      <g mask="url(#prefix__mock_dashboard-e)">
+        <path fill="#FFF" d="M0-1h197v430H0z"/>
+        <g transform="translate(159.43 5.567)">
+          <mask id="prefix__mock_dashboard-g" fill="#fff">
+            <use xlink:href="#prefix__mock_dashboard-f"/>
+          </mask>
+          <g fill="#000" fill-opacity=".54" mask="url(#prefix__mock_dashboard-g)">
+            <path d="M-25.72-3.83h55.27V9.232h-55.27z"/>
+          </g>
+        </g>
+        <g transform="translate(0 14.87)">
+          <mask id="prefix__mock_dashboard-i" fill="#fff">
+            <use xlink:href="#prefix__mock_dashboard-h"/>
+          </mask>
+          <g fill="#FFF" mask="url(#prefix__mock_dashboard-i)">
+            <path d="M0 0h196.005v30.843H0z"/>
+          </g>
+          <g mask="url(#prefix__mock_dashboard-i)">
+            <g transform="translate(0 30.097)">
+              <mask id="prefix__mock_dashboard-k" fill="#fff">
+                <use xlink:href="#prefix__mock_dashboard-j"/>
+              </mask>
+              <g fill-opacity=".87" mask="url(#prefix__mock_dashboard-k)" opacity=".12">
+                <path fill="#000" d="M0 0h197.965v1.005H0z"/>
+              </g>
+            </g>
+          </g>
+          <g mask="url(#prefix__mock_dashboard-i)">
+            <g transform="translate(129.144 8.756)">
+              <mask id="prefix__mock_dashboard-m" fill="#fff">
+                <use xlink:href="#prefix__mock_dashboard-l"/>
+              </mask>
+              <g fill="#000" fill-opacity=".54" mask="url(#prefix__mock_dashboard-m)">
+                <path d="M0 0h13.064v13.064H0z"/>
+              </g>
+            </g>
+          </g>
+          <g mask="url(#prefix__mock_dashboard-i)">
+            <g transform="translate(172.922 8.756)">
+              <mask id="prefix__mock_dashboard-o" fill="#fff">
+                <use xlink:href="#prefix__mock_dashboard-n"/>
+              </mask>
+              <g fill="#000" fill-opacity=".54" mask="url(#prefix__mock_dashboard-o)">
+                <path d="M0 0h13.064v13.064H0z"/>
+              </g>
+            </g>
+          </g>
+          <g mask="url(#prefix__mock_dashboard-i)">
+            <g transform="translate(151.033 8.756)">
+              <mask id="prefix__mock_dashboard-q" fill="#fff">
+                <use xlink:href="#prefix__mock_dashboard-p"/>
+              </mask>
+              <g fill="#000" fill-opacity=".54" mask="url(#prefix__mock_dashboard-q)">
+                <path d="M0 0h13.064v13.064H0z"/>
+              </g>
+            </g>
+          </g>
+        </g>
+        <text fill="#2B3540" font-family="Roboto-Medium, Roboto" font-size="17.511" font-weight="400" transform="translate(0 -1)">
+          <tspan x="13.133" y="86.044">1,040,330.84</tspan>
+        </text>
+        <text fill="#2B3540" font-family="Roboto-Regular, Roboto" font-size="8.756" letter-spacing=".274" transform="translate(157.053 100.236)">
+          <tspan x=".235" y="8">0.1123</tspan>
+        </text>
+        <text fill="#2B3540" font-family="Roboto-Regular, Roboto" font-size="8.756" letter-spacing=".274" transform="translate(157.053 131.428)">
+          <tspan x=".235" y="8">0.1123</tspan>
+        </text>
+        <text fill="#000" fill-opacity=".38" font-family="Roboto-Regular, Roboto" font-size="5.472" letter-spacing=".157" transform="translate(0 -1)">
+          <tspan x="158.694" y="119.917">$ 1,330.84</tspan>
+        </text>
+        <text fill="#000" fill-opacity=".38" font-family="Roboto-Regular, Roboto" font-size="5.472" letter-spacing=".157" transform="translate(0 -1)">
+          <tspan x="158.694" y="151.108">$ 1,330.84</tspan>
+        </text>
+        <g transform="translate(174.017 72.875)">
+          <mask id="prefix__mock_dashboard-s" fill="#fff">
+            <use xlink:href="#prefix__mock_dashboard-r"/>
+          </mask>
+          <g fill="#000" fill-opacity=".54" mask="url(#prefix__mock_dashboard-s)">
+            <path d="M0 13.133V.07h13.064v13.064z"/>
+          </g>
+        </g>
+        <g transform="translate(10.944 251.817)">
+          <mask id="prefix__mock_dashboard-v" fill="#fff">
+            <use xlink:href="#prefix__mock_dashboard-t"/>
+          </mask>
+          <g fill="url(#prefix__mock_dashboard-u)" mask="url(#prefix__mock_dashboard-v)">
+            <path d="M-4.925-1.094h184.722v36.722H-4.925z"/>
+          </g>
+          <text fill="#FFF" font-family="Roboto-Regular, Roboto" font-size="5.472" letter-spacing=".098" opacity=".6">
+            <tspan x="115.411" y="23.058">$104,515.97</tspan>
+          </text>
+          <text fill="#FFF" font-family="Roboto-Medium, Roboto" font-size="10.944" font-weight="400" letter-spacing=".195">
+            <tspan x="30.097" y="24.775">12.03234</tspan>
+          </text>
+          <text fill="#FFF" font-family="Roboto-Medium, Roboto" font-size="6.567" font-weight="400" letter-spacing=".117">
+            <tspan x="80.442" y="23.511">ETH</tspan>
+          </text>
+          <text fill="#FFF" font-family="HelveticaNeue, Helvetica Neue" font-size="6.567" letter-spacing=".199" transform="translate(31.192 5.472)">
+            <tspan x="0" y="5.453">Saving Account</tspan>
+          </text>
+          <g transform="translate(161.978 10.944)">
+            <mask id="prefix__mock_dashboard-x" fill="#fff">
+              <use xlink:href="#prefix__mock_dashboard-w"/>
+            </mask>
+            <g fill="#FFF" mask="url(#prefix__mock_dashboard-x)">
+              <path d="M0 13.133V.07h13.064v13.064z"/>
+            </g>
+          </g>
+          <g transform="translate(6.567 8.756)">
+            <mask id="prefix__mock_dashboard-z" fill="#fff">
+              <use xlink:href="#prefix__mock_dashboard-y"/>
+            </mask>
+            <g fill="#FFF" mask="url(#prefix__mock_dashboard-z)">
+              <path d="M0 0h18.088v18.088H0z"/>
+            </g>
+          </g>
+        </g>
+        <g transform="translate(10.944 334.994)">
+          <mask id="prefix__mock_dashboard-C" fill="#fff">
+            <use xlink:href="#prefix__mock_dashboard-A"/>
+          </mask>
+          <g fill="url(#prefix__mock_dashboard-B)" mask="url(#prefix__mock_dashboard-C)">
+            <path d="M-4.925-1.094h184.722v36.722H-4.925z"/>
+          </g>
+          <text fill="#FFF" font-family="Roboto-Regular, Roboto" font-size="5.472" letter-spacing=".098" opacity=".6">
+            <tspan x="115.411" y="23.058">$104,515.97</tspan>
+          </text>
+          <text fill="#FFF" font-family="Roboto-Medium, Roboto" font-size="10.944" font-weight="400" letter-spacing=".195">
+            <tspan x="30.097" y="24.775">12.03234</tspan>
+          </text>
+          <text fill="#FFF" font-family="Roboto-Medium, Roboto" font-size="6.567" font-weight="400" letter-spacing=".117">
+            <tspan x="80.442" y="23.511">ETH</tspan>
+          </text>
+          <text fill="#FFF" font-family="HelveticaNeue, Helvetica Neue" font-size="6.567" letter-spacing=".199" transform="translate(31.192 5.472)">
+            <tspan x="0" y="5.453">Bitcoin</tspan>
+          </text>
+          <g transform="translate(161.978 10.944)">
+            <mask id="prefix__mock_dashboard-E" fill="#fff">
+              <use xlink:href="#prefix__mock_dashboard-D"/>
+            </mask>
+            <g fill="#FFF" mask="url(#prefix__mock_dashboard-E)">
+              <path d="M0 13.133V.07h13.064v13.064z"/>
+            </g>
+          </g>
+          <g transform="translate(6.567 8.756)">
+            <mask id="prefix__mock_dashboard-G" fill="#fff">
+              <use xlink:href="#prefix__mock_dashboard-F"/>
+            </mask>
+            <g fill="#FFF" mask="url(#prefix__mock_dashboard-G)">
+              <path d="M0 0h18.088v18.088H0z"/>
+            </g>
+          </g>
+        </g>
+        <g transform="translate(10.944 293.406)">
+          <mask id="prefix__mock_dashboard-J" fill="#fff">
+            <use xlink:href="#prefix__mock_dashboard-H"/>
+          </mask>
+          <g fill="url(#prefix__mock_dashboard-I)" mask="url(#prefix__mock_dashboard-J)">
+            <path d="M-4.925-1.094h184.722v36.722H-4.925z"/>
+          </g>
+          <text fill="#FFF" font-family="Roboto-Regular, Roboto" font-size="5.472" letter-spacing=".098" opacity=".6">
+            <tspan x="115.411" y="23.058">$104,515.97</tspan>
+          </text>
+          <text fill="#FFF" font-family="Roboto-Medium, Roboto" font-size="10.944" font-weight="400" letter-spacing=".195">
+            <tspan x="30.097" y="24.775">12.03234</tspan>
+          </text>
+          <text fill="#FFF" font-family="Roboto-Medium, Roboto" font-size="6.567" font-weight="400" letter-spacing=".117">
+            <tspan x="80.442" y="23.511">ETH</tspan>
+          </text>
+          <text fill="#FFF" font-family="HelveticaNeue, Helvetica Neue" font-size="6.567" letter-spacing=".199" transform="translate(31.192 5.472)">
+            <tspan x="0" y="5.453">OMG</tspan>
+          </text>
+          <g transform="translate(161.978 10.944)">
+            <mask id="prefix__mock_dashboard-L" fill="#fff">
+              <use xlink:href="#prefix__mock_dashboard-K"/>
+            </mask>
+            <g fill="#FFF" mask="url(#prefix__mock_dashboard-L)">
+              <path d="M0 13.133V.07h13.064v13.064z"/>
+            </g>
+          </g>
+          <g transform="translate(6.567 8.756)">
+            <mask id="prefix__mock_dashboard-N" fill="#fff">
+              <use xlink:href="#prefix__mock_dashboard-M"/>
+            </mask>
+            <g fill="#FFF" mask="url(#prefix__mock_dashboard-N)">
+              <path d="M-.91-.91h20.1v20.1H-.91z"/>
+            </g>
+          </g>
+        </g>
+        <g transform="translate(10.944 210.228)">
+          <mask id="prefix__mock_dashboard-P" fill="#fff">
+            <use xlink:href="#prefix__mock_dashboard-O"/>
+          </mask>
+          <g fill="url(#prefix__mock_dashboard-B)" mask="url(#prefix__mock_dashboard-P)">
+            <path d="M-4.925-1.094h184.722v36.722H-4.925z"/>
+          </g>
+          <text fill="#FFF" font-family="Roboto-Regular, Roboto" font-size="5.472" letter-spacing=".098" opacity=".6">
+            <tspan x="115.411" y="23.058">$104,515.97</tspan>
+          </text>
+          <text fill="#FFF" font-family="Roboto-Medium, Roboto" font-size="10.944" font-weight="400" letter-spacing=".195">
+            <tspan x="30.097" y="24.775">12.03234</tspan>
+          </text>
+          <text fill="#FFF" font-family="Roboto-Medium, Roboto" font-size="6.567" font-weight="400" letter-spacing=".117">
+            <tspan x="80.442" y="23.511">ETH</tspan>
+          </text>
+          <text fill="#FFF" font-family="HelveticaNeue, Helvetica Neue" font-size="6.567" letter-spacing=".199" transform="translate(31.192 5.472)">
+            <tspan x="0" y="5.453">Food</tspan>
+          </text>
+          <g transform="translate(161.978 10.944)">
+            <mask id="prefix__mock_dashboard-R" fill="#fff">
+              <use xlink:href="#prefix__mock_dashboard-Q"/>
+            </mask>
+            <g fill="#FFF" mask="url(#prefix__mock_dashboard-R)">
+              <path d="M0 13.133V.07h13.064v13.064z"/>
+            </g>
+          </g>
+          <g transform="translate(6.567 8.756)">
+            <mask id="prefix__mock_dashboard-T" fill="#fff">
+              <use xlink:href="#prefix__mock_dashboard-S"/>
+            </mask>
+            <g fill="#FFF" mask="url(#prefix__mock_dashboard-T)">
+              <path d="M0 0h18.088v18.088H0z"/>
+            </g>
+          </g>
+        </g>
+        <text fill="#000" font-family="HelveticaNeue, Helvetica Neue" font-size="6.567" letter-spacing=".117" opacity=".6" transform="translate(0 -1)">
+          <tspan x="22.436" y="108.331">Total Bitcoin</tspan>
+        </text>
+        <text fill="#000" font-family="HelveticaNeue, Helvetica Neue" font-size="6.567" letter-spacing=".117" opacity=".6" transform="translate(0 -1)">
+          <tspan x="22.436" y="139.522">Total Etheruem</tspan>
+        </text>
+        <path fill="#F7931A" d="M20.205 108.066a4.167 4.167 0 1 1-8.334 0 4.167 4.167 0 0 1 8.334 0"/>
+        <path fill="#FFF" d="M17.11 109.25a.443.443 0 0 1-.55.3l-1.132-.341.253-.858 1.132.342c.233.07.366.32.297.556m.382-1.757a.45.45 0 0 1 .034.34.442.442 0 0 1-.549.301l-1.132-.341.252-.858 1.132.342a.44.44 0 0 1 .263.216m.506-.278a1.014 1.014 0 0 0-.604-.497l-.15-.046.21-.713-.538-.162-.21.713-.46-.138.21-.714-.129-.038-.522-.158-.202.687-.636-.192-.18.611.637.192-.654 2.223-.636-.192-.18.611.636.192-.17.58.129.04.522.157.178-.606.46.139-.178.606.536.161.178-.606.15.046a1.01 1.01 0 0 0 1.267-.694 1.04 1.04 0 0 0-.088-.798 1.036 1.036 0 0 0 .425-1.404"/>
+        <path fill="#497391" d="M20.202 139.278a4.147 4.147 0 1 1-8.294 0 4.147 4.147 0 0 1 8.294 0zm-5.983.514l1.778.936v-4.6l-1.778 3.664zm3.672 0l-1.785-3.665v4.6l1.785-.935zm-3.672.134l1.778 2.322v-1.432l-1.778-.89zm3.672 0l-1.785.89v1.432l1.785-2.322z"/>
+        <g transform="translate(10.944 126.503)">
+          <mask id="prefix__mock_dashboard-V" fill="#fff">
+            <use xlink:href="#prefix__mock_dashboard-U"/>
+          </mask>
+          <g fill="#000" fill-opacity=".87" mask="url(#prefix__mock_dashboard-V)" opacity=".12">
+            <path d="M0 0h186.911v1.005H0z"/>
+          </g>
+        </g>
+        <g transform="translate(13.133 25.814)">
+          <mask id="prefix__mock_dashboard-Y" fill="#fff">
+            <use xlink:href="#prefix__mock_dashboard-W"/>
+          </mask>
+          <path fill="url(#prefix__mock_dashboard-X)" d="M-.426 10.64h42.562V-2.554H-.426z" mask="url(#prefix__mock_dashboard-Y)"/>
+        </g>
+        <g transform="translate(179.489 215.7)">
+          <mask id="prefix__mock_dashboard-aa" fill="#fff">
+            <use xlink:href="#prefix__mock_dashboard-Z"/>
+          </mask>
+          <use fill="#D8D8D8" fill-rule="nonzero" xlink:href="#prefix__mock_dashboard-Z"/>
+          <g fill="#E53935" mask="url(#prefix__mock_dashboard-aa)">
+            <path d="M0 0h1.99v1.99H0z"/>
+          </g>
+        </g>
+        <g transform="translate(0 375.714)">
+          <mask id="prefix__mock_dashboard-ad" fill="#fff">
+            <use xlink:href="#prefix__mock_dashboard-ab"/>
+          </mask>
+          <use fill="#000" filter="url(#prefix__mock_dashboard-ac)" xlink:href="#prefix__mock_dashboard-ab"/>
+          <use fill="#FFF" xlink:href="#prefix__mock_dashboard-ab"/>
+          <g fill="#FFF" mask="url(#prefix__mock_dashboard-ad)">
+            <path d="M0 .322h196.005v30.843H0z"/>
+          </g>
+          <g mask="url(#prefix__mock_dashboard-ad)">
+            <text fill="#3E3E3E" font-family="HelveticaNeue, Helvetica Neue" font-size="6.567" letter-spacing=".199" transform="translate(19.153 18.38)">
+              <tspan x="12.279" y="5.453">Wallet</tspan>
+            </text>
+            <g transform="translate(34.711 5.247)">
+              <mask id="prefix__mock_dashboard-af" fill="#fff">
+                <use xlink:href="#prefix__mock_dashboard-ae"/>
+              </mask>
+              <g fill="#3E3E3E" mask="url(#prefix__mock_dashboard-af)">
+                <path d="M0 0h12.934v12.934H0z"/>
+              </g>
+            </g>
+          </g>
+        </g>
+        <g transform="translate(83.178 360.714)">
+          <mask id="prefix__mock_dashboard-ai" fill="#fff">
+            <use xlink:href="#prefix__mock_dashboard-ag"/>
+          </mask>
+          <use fill="#000" filter="url(#prefix__mock_dashboard-ah)" xlink:href="#prefix__mock_dashboard-ag"/>
+          <use fill="#FAFAFA" xlink:href="#prefix__mock_dashboard-ag"/>
+          <g fill="#5699FF" mask="url(#prefix__mock_dashboard-ai)">
+            <path d="M0 0h30.843v30.843H0z"/>
+          </g>
+          <g mask="url(#prefix__mock_dashboard-ai)">
+            <g transform="translate(8.756 8.756)">
+              <mask id="prefix__mock_dashboard-ak" fill="#fff">
+                <use xlink:href="#prefix__mock_dashboard-aj"/>
+              </mask>
+              <g mask="url(#prefix__mock_dashboard-ak)">
+                <path fill="#FFF" d="M0 0h13.064v13.064H0z"/>
+              </g>
+            </g>
+          </g>
+        </g>
+        <path fill="#FFF" d="M0 405.586h197v22.983H0z"/>
+        <text fill="#2B3540" fill-opacity=".73" font-family="HelveticaNeue, Helvetica Neue" font-size="7.661" letter-spacing=".137" transform="translate(13.133 54.27)">
+          <tspan x="0" y="6.453">Total Assets</tspan>
+        </text>
+        <text fill="#2B3540" font-family="Roboto-Medium, Roboto" font-size="10.944" font-weight="400" transform="translate(0 -1)">
+          <tspan x="117.653" y="86.064">THB</tspan>
+        </text>
+        <g transform="translate(10.944 168.639)">
+          <mask id="prefix__mock_dashboard-an" fill="#fff">
+            <use xlink:href="#prefix__mock_dashboard-al"/>
+          </mask>
+          <g fill="url(#prefix__mock_dashboard-am)" mask="url(#prefix__mock_dashboard-an)">
+            <path d="M-4.925-1.094h184.722v36.722H-4.925z"/>
+          </g>
+          <text fill="#FFF" font-family="Roboto-Regular, Roboto" font-size="5.472" letter-spacing=".098" opacity=".6">
+            <tspan x="115.411" y="23.058">$104,515.97</tspan>
+          </text>
+          <text fill="#FFF" font-family="Roboto-Medium, Roboto" font-size="10.944" font-weight="400" letter-spacing=".195">
+            <tspan x="30.097" y="24.775">12.03234</tspan>
+          </text>
+          <text fill="#FFF" font-family="Roboto-Medium, Roboto" font-size="6.567" font-weight="400" letter-spacing=".117">
+            <tspan x="80.442" y="23.511">ETH</tspan>
+          </text>
+          <text fill="#FFF" font-family="HelveticaNeue, Helvetica Neue" font-size="6.567" letter-spacing=".199" transform="translate(31.192 5.472)">
+            <tspan x="0" y="5.453">Electronics Account</tspan>
+          </text>
+          <g transform="translate(161.978 10.944)">
+            <mask id="prefix__mock_dashboard-ap" fill="#fff">
+              <use xlink:href="#prefix__mock_dashboard-ao"/>
+            </mask>
+            <g fill="#FFF" mask="url(#prefix__mock_dashboard-ap)">
+              <path d="M0 13.133V.07h13.064v13.064z"/>
+            </g>
+          </g>
+          <g transform="translate(6.567 8.756)">
+            <mask id="prefix__mock_dashboard-ar" fill="#fff">
+              <use xlink:href="#prefix__mock_dashboard-aq"/>
+            </mask>
+            <g fill="#FFF" mask="url(#prefix__mock_dashboard-ar)">
+              <path d="M0 0h18.088v18.088H0z"/>
+            </g>
+          </g>
+        </g>
+        <text fill="#3E3E3E" font-family="HelveticaNeue, Helvetica Neue" font-size="6.567" letter-spacing=".199" transform="translate(128.189 394.094)">
+          <tspan x="11.878" y="5.453">Profile</tspan>
+        </text>
+        <g transform="translate(143.747 380.961)">
+          <mask id="prefix__mock_dashboard-at" fill="#fff">
+            <use xlink:href="#prefix__mock_dashboard-as"/>
+          </mask>
+          <g fill="#000" fill-opacity=".54" mask="url(#prefix__mock_dashboard-at)">
+            <path d="M0 0h13.064v13.064H0z"/>
+          </g>
+        </g>
+        <path fill="#EBEBEB" d="M62.924 412.331h67.717c1.018 0 1.843.744 1.843 1.662 0 .917-.825 1.66-1.843 1.66H62.924c-1.018 0-1.843-.743-1.843-1.66 0-.918.825-1.662 1.843-1.662z"/>
+      </g>
+    </g>
+    <g fill="#F0F3F5" transform="translate(125 47)">
+      <path d="M1.958 1.5h23.494c1.082 0 1.958.951 1.958 2.125s-.876 2.125-1.958 2.125H1.958C.877 5.75 0 4.799 0 3.625S.877 1.5 1.958 1.5z"/>
+      <ellipse cx="37.775" cy="3.5" rx="3.225" ry="3.5"/>
+    </g>
+  </g>
+</svg>
